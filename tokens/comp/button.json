@@ -155,6 +155,10 @@
     "space-between": {
       "value": "{space.sm}",
       "type": "spacing"
+    },
+    "typography": {
+      "value": "{semantic.typography.Small.Bold}",
+      "type": "typography"
     }
   }
 }
