@@ -55,7 +55,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{color.gray.200}",
+          "value": "{color.gray.50}",
           "type": "color"
         },
         "muted": {

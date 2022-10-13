@@ -29,7 +29,7 @@
       },
       "default": {
         "background": {
-          "value": "{semantic.color.bg.surface}",
+          "value": "{semantic.color.bg.subtle}",
           "type": "color",
           "description": "Change this token to change the background color of the default pricing card."
         },
