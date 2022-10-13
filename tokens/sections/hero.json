@@ -51,6 +51,18 @@
       "gap-modifier": {
         "value": "1",
         "type": "spacing"
+      },
+      "body-gap": {
+        "value": "{semantic.gap-modifier}*40",
+        "type": "spacing"
+      },
+      "content-gap": {
+        "value": "{semantic.gap-modifier}*24",
+        "type": "spacing"
+      },
+      "actions-gap": {
+        "value": "{semantic.gap-modifier}*16",
+        "type": "spacing"
       }
     }
   }
