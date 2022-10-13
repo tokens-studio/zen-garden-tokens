@@ -60,6 +60,22 @@
         "value": "56",
         "type": "spacing",
         "description": "Modify this token to change the padding-y of the pricing card"
+      },
+      "gap-modifier": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{pattern.card-pricing.gap-modifier}*32",
+        "type": "spacing"
+      },
+      "heading-gap": {
+        "value": "{pattern.card-pricing.gap-modifier}*8",
+        "type": "spacing"
+      },
+      "list-gap": {
+        "value": "{pattern.card-pricing.gap-modifier}*16",
+        "type": "spacing"
       }
     }
   }

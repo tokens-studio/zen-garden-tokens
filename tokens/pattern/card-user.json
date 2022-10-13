@@ -35,11 +35,11 @@
         "color": {
           "value": "{semantic.color.fg.subtle}",
           "type": "color"
-        },
-        "gap": {
-          "value": "{pattern.card-user.gap-modifier}*16",
-          "type": "spacing"
         }
+      },
+      "content-gap": {
+        "value": "{pattern.card-user.gap-modifier}*16",
+        "type": "spacing"
       },
       "sub-title": {
         "color": {
@@ -57,17 +57,13 @@
         "value": "16*{pattern.card-user.gap-modifier}",
         "type": "spacing"
       },
-      "body": {
-        "gap": {
-          "value": "{pattern.card-user.gap-modifier}*24",
-          "type": "spacing"
-        }
+      "body-gap": {
+        "value": "{pattern.card-user.gap-modifier}*24",
+        "type": "spacing"
       },
-      "icons": {
-        "gap": {
-          "value": "{pattern.card-user.gap-modifier}*24",
-          "type": "spacing"
-        }
+      "icons-gap": {
+        "value": "{pattern.card-user.gap-modifier}*24",
+        "type": "spacing"
       }
     }
   }
