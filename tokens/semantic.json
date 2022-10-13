@@ -163,18 +163,18 @@
             {
               "color": "#3b28cc1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 1,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "1",
+              "blur": "1",
+              "spread": "0"
             },
             {
               "color": "#3b28cc0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -184,18 +184,18 @@
             {
               "color": "#3b28cc1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 2,
-              "blur": 4,
-              "spread": 0
+              "x": "0",
+              "y": "2",
+              "blur": "4",
+              "spread": "0"
             },
             {
               "color": "#3b28cc0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -205,18 +205,18 @@
             {
               "color": "#3b28cc1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 4,
-              "blur": 8,
-              "spread": 0
+              "x": "0",
+              "y": "4",
+              "blur": "8",
+              "spread": "0"
             },
             {
               "color": "#3b28cc0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -226,18 +226,18 @@
             {
               "color": "#3b28cc1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 8,
-              "blur": 16,
-              "spread": 0
+              "x": "0",
+              "y": "8",
+              "blur": "16",
+              "spread": "0"
             },
             {
               "color": "#3b28cc0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -247,18 +247,18 @@
             {
               "color": "#3b28cc17",
               "type": "dropShadow",
-              "x": 0,
-              "y": 16,
-              "blur": 24,
-              "spread": 0
+              "x": "0",
+              "y": "16",
+              "blur": "24",
+              "spread": "0"
             },
             {
               "color": "#3b28cc0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -268,18 +268,18 @@
             {
               "color": "#3b28cc14",
               "type": "dropShadow",
-              "x": 0,
-              "y": 24,
-              "blur": 40,
-              "spread": 0
+              "x": "0",
+              "y": "24",
+              "blur": "40",
+              "spread": "0"
             },
             {
               "color": "#3b28cc0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -291,18 +291,18 @@
             {
               "color": "#2667ff1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 1,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "1",
+              "blur": "1",
+              "spread": "0"
             },
             {
               "color": "#2667ff0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -312,18 +312,18 @@
             {
               "color": "#2667ff1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 2,
-              "blur": 4,
-              "spread": 0
+              "x": "0",
+              "y": "2",
+              "blur": "4",
+              "spread": "0"
             },
             {
               "color": "#2667ff0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -333,18 +333,18 @@
             {
               "color": "#2667ff1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 4,
-              "blur": 8,
-              "spread": 0
+              "x": "0",
+              "y": "4",
+              "blur": "8",
+              "spread": "0"
             },
             {
               "color": "#2667ff0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -354,18 +354,18 @@
             {
               "color": "#2667ff1a",
               "type": "dropShadow",
-              "x": 0,
-              "y": 8,
-              "blur": 16,
-              "spread": 0
+              "x": "0",
+              "y": "8",
+              "blur": "16",
+              "spread": "0"
             },
             {
               "color": "#2667ff0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -375,18 +375,18 @@
             {
               "color": "#2667ff17",
               "type": "dropShadow",
-              "x": 0,
-              "y": 16,
-              "blur": 24,
-              "spread": 0
+              "x": "0",
+              "y": "16",
+              "blur": "24",
+              "spread": "0"
             },
             {
               "color": "#2667ff0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
@@ -396,18 +396,18 @@
             {
               "color": "#2667ff14",
               "type": "dropShadow",
-              "x": 0,
-              "y": 24,
-              "blur": 40,
-              "spread": 0
+              "x": "0",
+              "y": "24",
+              "blur": "40",
+              "spread": "0"
             },
             {
               "color": "#2667ff0d",
               "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 1,
-              "spread": 0
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0"
             }
           ],
           "type": "boxShadow"
