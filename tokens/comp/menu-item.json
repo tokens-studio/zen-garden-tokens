@@ -1,1 +1,30 @@
-{}
+{
+  "menu-item": {
+    "font-color": {
+      "value": "{semantic.color.fg.on-disabled}",
+      "type": "color"
+    },
+    "hover": {
+      "background": {
+        "value": "{semantic.color.bg.subtle}",
+        "type": "color"
+      },
+      "typography": {
+        "value": "{semantic.typography.Small.Regular}",
+        "type": "typography"
+      }
+    },
+    "default": {
+      "typography": {
+        "value": "{semantic.typography.Small.Regular}",
+        "type": "typography"
+      }
+    },
+    "active": {
+      "typography": {
+        "value": "{semantic.typography.Small.Bold}",
+        "type": "typography"
+      }
+    }
+  }
+}
