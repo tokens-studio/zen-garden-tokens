@@ -1,7 +1,7 @@
 {
   "menu-item": {
-    "font-color": {
-      "value": "{semantic.color.fg.on-disabled}",
+    "text-color": {
+      "value": "{semantic.color.fg.subtle}",
       "type": "color"
     },
     "hover": {

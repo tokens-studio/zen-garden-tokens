@@ -1163,6 +1163,10 @@
           }
         }
       }
+    },
+    "gap-modifier": {
+      "value": "1",
+      "type": "spacing"
     }
   }
 }

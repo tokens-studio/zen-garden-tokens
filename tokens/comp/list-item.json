@@ -1,6 +1,6 @@
 {
   "list-item": {
-    "font-color": {
+    "text-color": {
       "value": "{semantic.color.fg.default}",
       "type": "color"
     },
