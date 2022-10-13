@@ -151,6 +151,10 @@
     "border-radius": {
       "value": "{radii.sm}",
       "type": "borderRadius"
+    },
+    "space-between": {
+      "value": "{space.sm}",
+      "type": "spacing"
     }
   }
 }
