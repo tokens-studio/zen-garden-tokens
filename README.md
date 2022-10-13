@@ -1,1 +1,1 @@
-# cabana-tokens
+# Zen Garden Tokens
