@@ -1,6 +1,22 @@
 {
   "pattern": {
     "card-user": {
+      "icon-1": {
+        "value": "twitter",
+        "type": "icon"
+      },
+      "icon-2": {
+        "value": "github",
+        "type": "icon"
+      },
+      "icon-3": {
+        "value": "whatsapp",
+        "type": "icon"
+      },
+      "icon-4": {
+        "value": "dribbble",
+        "type": "icon"
+      },
       "border-radius": {
         "value": "0 24",
         "type": "borderRadius"
