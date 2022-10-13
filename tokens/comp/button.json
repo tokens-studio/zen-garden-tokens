@@ -159,6 +159,24 @@
     "space-between": {
       "value": "{space.sm}",
       "type": "spacing"
+    },
+    "label": {
+      "value": "{semantic.typography.Button.Large.Bold}",
+      "type": "typography"
+    },
+    "icon": {
+      "value": {
+        "fontSize": "{semantic.typography.Button.Large.Bold.fontSize}"
+      },
+      "type": "typography"
+    },
+    "padding-x": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "padding-y": {
+      "value": "12",
+      "type": "spacing"
     }
   }
 }
