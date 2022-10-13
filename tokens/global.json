@@ -1796,7 +1796,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "200": {
         "value": [
@@ -1817,7 +1817,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "300": {
         "value": [
@@ -1838,7 +1838,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "400": {
         "value": [
@@ -1859,7 +1859,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "500": {
         "value": [
@@ -1880,7 +1880,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "600": {
         "value": [
@@ -1901,7 +1901,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       }
     },
     "dark": {
@@ -1924,7 +1924,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "200": {
         "value": [
@@ -1945,7 +1945,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "300": {
         "value": [
@@ -1966,7 +1966,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "400": {
         "value": [
@@ -1987,7 +1987,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "500": {
         "value": [
@@ -2008,7 +2008,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "600": {
         "value": [
@@ -2029,7 +2029,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       }
     },
     "primary": {
@@ -2052,7 +2052,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "200": {
         "value": [
@@ -2073,7 +2073,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "300": {
         "value": [
@@ -2094,7 +2094,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "400": {
         "value": [
@@ -2115,7 +2115,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "500": {
         "value": [
@@ -2136,7 +2136,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "600": {
         "value": [
@@ -2157,7 +2157,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       }
     },
     "secondary": {
@@ -2180,7 +2180,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "200": {
         "value": [
@@ -2201,7 +2201,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "300": {
         "value": [
@@ -2222,7 +2222,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "400": {
         "value": [
@@ -2243,7 +2243,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "500": {
         "value": [
@@ -2264,7 +2264,7 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       },
       "600": {
         "value": [
@@ -2285,11 +2285,15 @@
             "spread": "0"
           }
         ],
-        "type": "boxshadow"
+        "type": "boxShadow"
       }
     }
   },
   "radii": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
     "sm": {
       "value": "6",
       "type": "borderRadius"
@@ -2330,6 +2334,10 @@
     }
   },
   "borderWidth": {
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
+    },
     "sm": {
       "value": "1",
       "type": "borderWidth"

@@ -80,16 +80,16 @@
           "value": "{semantic.color.accent.default}",
           "type": "color"
         },
-        "background-color": {
+        "text-color": {
           "value": "{semantic.color.accent.default}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{semantic.color.fg.on-accent}",
+        "background-color": {
+          "value": "rgba(0,0,0,0)",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.fg.on-accent}",
+          "value": "{semantic.color.accent.default}",
           "type": "color"
         }
       },
@@ -98,16 +98,16 @@
           "value": "{semantic.color.accent.muted}",
           "type": "color"
         },
-        "background-color": {
+        "text-color": {
           "value": "{semantic.color.accent.muted}",
           "type": "color"
         },
-        "text-color": {
+        "background-color": {
           "value": "{semantic.color.fg.on-accent}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.fg.on-accent}",
+          "value": "{semantic.color.accent.muted}",
           "type": "color"
         }
       },
@@ -116,16 +116,16 @@
           "value": "{semantic.color.accent.emphasis}",
           "type": "color"
         },
-        "background-color": {
+        "text-color": {
           "value": "{semantic.color.accent.muted}",
           "type": "color"
         },
-        "text-color": {
+        "background-color": {
           "value": "{semantic.color.fg.on-accent}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.fg.on-accent}",
+          "value": "{semantic.color.accent.emphasis}",
           "type": "color"
         }
       },
@@ -134,22 +134,26 @@
           "value": "{semantic.color.accent.muted}",
           "type": "color"
         },
-        "background-color": {
+        "text-color": {
           "value": "{semantic.color.accent.default}",
           "type": "color"
         },
-        "text-color": {
+        "background-color": {
           "value": "{semantic.color.fg.on-accent}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.fg.on-accent}",
+          "value": "{semantic.color.accent.muted}",
           "type": "color"
         }
+      },
+      "border-width": {
+        "value": "{borderWidth.md}",
+        "type": "borderWidth"
       }
     },
     "border-radius": {
-      "value": "{radii.sm}",
+      "value": "{radii.none}",
       "type": "borderRadius"
     },
     "space-between": {
