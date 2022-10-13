@@ -33,19 +33,19 @@
           "type": "color"
         },
         "default": {
-          "value": "{color.blue.500}",
+          "value": "{color.emerald.500}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.blue.50}",
+          "value": "{color.emerald.50}",
           "type": "color"
         },
         "muted": {
-          "value": "{color.blue.400}",
+          "value": "{color.emerald.400}",
           "type": "color"
         },
         "emphasis": {
-          "value": "{color.blue.600}",
+          "value": "{color.emerald.600}",
           "type": "color"
         }
       },
