@@ -8,12 +8,12 @@
         "type": "composition"
       },
       "container-overlay": {
-        "value": "{color.Gradient.Overlay.Dark.180-deg-↓}",
+        "value": "{color.gradient.overlay.dark.180-deg-↓}",
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
       "container-background": {
-        "value": "{color.Amber.400}",
+        "value": "{color.amber.400}",
         "type": "color",
         "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this."
       },
