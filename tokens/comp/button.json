@@ -2,6 +2,10 @@
   "button": {
     "primary": {
       "default": {
+        "border-color": {
+          "value": "{semantic.color.accent.default}",
+          "type": "color"
+        },
         "background-color": {
           "value": "{semantic.color.accent.default}",
           "type": "color"
@@ -16,6 +20,10 @@
         }
       },
       "hover": {
+        "border-color": {
+          "value": "{semantic.color.accent.muted}",
+          "type": "color"
+        },
         "background-color": {
           "value": "{semantic.color.accent.muted}",
           "type": "color"
@@ -68,6 +76,10 @@
     },
     "secondary": {
       "default": {
+        "border-color": {
+          "value": "{semantic.color.accent.default}",
+          "type": "color"
+        },
         "background-color": {
           "value": "{semantic.color.accent.default}",
           "type": "color"
@@ -82,6 +94,10 @@
         }
       },
       "hover": {
+        "border-color": {
+          "value": "{semantic.color.accent.muted}",
+          "type": "color"
+        },
         "background-color": {
           "value": "{semantic.color.accent.muted}",
           "type": "color"
