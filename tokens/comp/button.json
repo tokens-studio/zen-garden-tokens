@@ -147,10 +147,10 @@
           "type": "color"
         }
       }
+    },
+    "border-radius": {
+      "value": "{radii.sm}",
+      "type": "borderRadius"
     }
-  },
-  "button-radii": {
-    "value": "6px",
-    "type": "borderRadius"
   }
 }

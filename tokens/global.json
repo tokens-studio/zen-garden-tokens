@@ -2288,5 +2288,19 @@
         "type": "boxshadow"
       }
     }
+  },
+  "radii": {
+    "sm": {
+      "value": "6",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "16",
+      "type": "borderRadius"
+    }
   }
 }
