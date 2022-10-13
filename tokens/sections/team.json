@@ -3,7 +3,9 @@
     "team": {
       "container": {
         "value": {
-          "fill": "{section.team.container-background}"
+          "fill": "{section.team.container-background}",
+          "verticalPadding": "{section.team.padding-y}",
+          "horizontalPadding": "{section.team.padding-x}"
         },
         "type": "composition"
       },

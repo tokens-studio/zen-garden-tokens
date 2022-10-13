@@ -3,7 +3,9 @@
     "features": {
       "container": {
         "value": {
-          "fill": "{section.features.container-background}"
+          "fill": "{section.features.container-background}",
+          "verticalPadding": "{section.features.padding-y}",
+          "horizontalPadding": "{section.features.padding-x}"
         },
         "type": "composition"
       },

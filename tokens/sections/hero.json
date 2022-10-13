@@ -3,7 +3,9 @@
     "hero": {
       "container": {
         "value": {
-          "fill": "{section.hero.container-background}"
+          "fill": "{section.hero.container-background}",
+          "verticalPadding": "{section.hero.padding-y}",
+          "horizontalPadding": "{section.hero.padding-x}"
         },
         "type": "composition"
       },
@@ -13,7 +15,7 @@
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
       "container-background": {
-        "value": "{color.amber.400}",
+        "value": "{semantic.color.bg.subtle}",
         "type": "color",
         "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this."
       },
