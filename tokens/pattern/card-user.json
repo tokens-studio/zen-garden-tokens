@@ -16,6 +16,24 @@
       "gap-modifier": {
         "value": "1",
         "type": "spacing"
+      },
+      "content": {
+        "color": {
+          "value": "{semantic.color.fg.subtle}",
+          "type": "color"
+        }
+      },
+      "sub-title": {
+        "color": {
+          "value": "{semantic.color.fg.disabled}",
+          "type": "color"
+        }
+      },
+      "title": {
+        "color": {
+          "value": "{semantic.color.fg.default}",
+          "type": "color"
+        }
       }
     }
   }
