@@ -10,7 +10,7 @@
         "type": "composition"
       },
       "container-overlay": {
-        "value": "{color.gradient.overlay.dark.180-deg-↓}",
+        "value": "{color.white alpha.900}",
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
@@ -83,7 +83,7 @@
         "type": "spacing"
       },
       "icon-1": {
-        "value": "list",
+        "value": "hippo",
         "type": "other"
       },
       "icon-2": {
