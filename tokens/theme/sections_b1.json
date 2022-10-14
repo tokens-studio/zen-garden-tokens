@@ -166,9 +166,25 @@
           "type": "color"
         },
         "icon": {
-          "value": "{semantic.color.accent.default}",
+          "value": "{color.white}",
           "type": "color"
         }
+      },
+      "icon-1": {
+        "value": "ticket",
+        "type": "icon"
+      },
+      "icon-2": {
+        "value": "hippo",
+        "type": "icon"
+      },
+      "icon-3": {
+        "value": "image",
+        "type": "icon"
+      },
+      "icon-4": {
+        "value": "wand-magic-sparkles",
+        "type": "icon"
       },
       "gap": {
         "value": "{semantic.gap-modifier.y}*96",
