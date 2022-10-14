@@ -19,7 +19,9 @@
       "sections/pricing": "enabled",
       "sections/footer": "enabled",
       "theme/semantic": "disabled",
-      "theme/sections": "disabled"
+      "theme/sections": "disabled",
+      "theme/semantic-b1": "disabled",
+      "theme/sections_b1": "disabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -481,6 +481,10 @@
         "regular": {
           "value": "Regular",
           "type": "fontWeights"
+        },
+        "semi-bold": {
+          "value": "SemiBold",
+          "type": "fontWeights"
         }
       }
     },
@@ -1000,7 +1004,7 @@
         "semi-bold": {
           "value": {
             "fontFamily": "{semantic.fontFamilies.body}",
-            "fontWeight": "{semantic.fontWeights.headlines.semi-bold}",
+            "fontWeight": "{semantic.fontWeights.body.semi-bold}",
             "lineHeight": "{semantic.lineHeights.body.default}",
             "fontSize": "{semantic.fontSize.base}",
             "letterSpacing": "{semantic.letterSpacing.captions}",

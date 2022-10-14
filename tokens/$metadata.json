@@ -16,6 +16,8 @@
     "sections/pricing",
     "sections/footer",
     "theme/semantic",
-    "theme/sections"
+    "theme/sections",
+    "theme/semantic-b1",
+    "theme/sections_b1"
   ]
 }
