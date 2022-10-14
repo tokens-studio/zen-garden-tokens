@@ -50,8 +50,20 @@
         "value": "211",
         "type": "spacing"
       },
-      "gap-modifier": {
-        "value": "1",
+      "gap": {
+        "value": "{semantic.gap-modifier.y}*56",
+        "type": "spacing"
+      },
+      "heading-block-gap": {
+        "value": "{semantic.gap-modifier.y}*16",
+        "type": "spacing"
+      },
+      "heading-gap": {
+        "value": "{semantic.gap-modifier.y}*8",
+        "type": "spacing"
+      },
+      "block-gap": {
+        "value": "{semantic.gap-modifier.x}*40",
         "type": "spacing"
       }
     }

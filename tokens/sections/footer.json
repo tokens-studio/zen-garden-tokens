@@ -46,8 +46,8 @@
         "value": "64",
         "type": "spacing"
       },
-      "gap-modifier": {
-        "value": "1",
+      "gap": {
+        "value": "{semantic.gap-modifier.y}*18",
         "type": "spacing"
       }
     }

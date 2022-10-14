@@ -25,15 +25,11 @@
         "description": "Add an image address pointing to a public url"
       },
       "padding-x": {
-        "value": "165",
+        "value": "314",
         "type": "spacing"
       },
       "padding-y": {
         "value": "106",
-        "type": "spacing"
-      },
-      "gap-modifier": {
-        "value": "1",
         "type": "spacing"
       },
       "color": {
@@ -49,6 +45,26 @@
           "value": "{semantic.color.fg.subtle}",
           "type": "color"
         }
+      },
+      "gap": {
+        "value": "{semantic.gap-modifier.y}*96",
+        "type": "spacing"
+      },
+      "heading-block-gap": {
+        "value": "{semantic.gap-modifier.y}*16",
+        "type": "spacing"
+      },
+      "heading-gap": {
+        "value": "{semantic.gap-modifier.y}*8",
+        "type": "spacing"
+      },
+      "block-gap": {
+        "value": "{semantic.gap-modifier.y}*56",
+        "type": "spacing"
+      },
+      "row-gap": {
+        "value": "{semantic.gap-modifier.x}*32",
+        "type": "spacing"
       }
     }
   }

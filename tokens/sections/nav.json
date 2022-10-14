@@ -33,7 +33,7 @@
         "type": "spacing"
       },
       "action-gap": {
-        "value": "{semantic.gap-modifier}*16",
+        "value": "{semantic.gap-modifier.x}*16",
         "type": "spacing"
       },
       "gap": {
@@ -41,7 +41,7 @@
         "type": "spacing"
       },
       "logo-menu-gap": {
-        "value": "{semantic.gap-modifier}*64",
+        "value": "{semantic.gap-modifier.x}*64",
         "type": "spacing"
       }
     }

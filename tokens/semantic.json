@@ -1213,8 +1213,14 @@
       }
     },
     "gap-modifier": {
-      "value": "1",
-      "type": "spacing"
+      "y": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "x": {
+        "value": "1",
+        "type": "spacing"
+      }
     }
   }
 }
