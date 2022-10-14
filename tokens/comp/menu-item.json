@@ -37,6 +37,30 @@
     "border-radius": {
       "value": "4",
       "type": "borderRadius"
+    },
+    "on-accent": {
+      "text-color": {
+        "value": "{semantic.color.bg.subtle}",
+        "type": "color"
+      },
+      "default": {
+        "background": {
+          "value": "{semantic.color.fg.subtle}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background": {
+          "value": "{semantic.color.fg.disabled}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "background": {
+          "value": "{semantic.color.fg.muted}",
+          "type": "color"
+        }
+      }
     }
   }
 }
