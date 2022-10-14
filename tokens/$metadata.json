@@ -7,6 +7,7 @@
     "comp/menu-item",
     "comp/toggle",
     "pattern/menu-bar",
+    "pattern/feature",
     "pattern/card-user",
     "pattern/card-pricing",
     "sections/nav",

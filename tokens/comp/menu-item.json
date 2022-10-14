@@ -35,29 +35,17 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "4",
+      "value": "{semantic.comp.border-radius}",
       "type": "borderRadius"
     },
     "on-accent": {
       "text-color": {
-        "value": "{semantic.color.bg.subtle}",
+        "value": "{semantic.color.fg.on-accent}",
         "type": "color"
-      },
-      "default": {
-        "background": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color"
-        }
       },
       "hover": {
         "background": {
           "value": "{semantic.color.fg.disabled}",
-          "type": "color"
-        }
-      },
-      "active": {
-        "background": {
-          "value": "{semantic.color.fg.muted}",
           "type": "color"
         }
       }

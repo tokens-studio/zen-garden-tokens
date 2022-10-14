@@ -25,7 +25,7 @@
         "description": "Add an image address pointing to a public url"
       },
       "padding-x": {
-        "value": "314",
+        "value": "165",
         "type": "spacing"
       },
       "padding-y": {
@@ -43,6 +43,22 @@
         },
         "body": {
           "value": "{semantic.color.fg.subtle}",
+          "type": "color"
+        },
+        "name": {
+          "value": "{semantic.color.fg.default}",
+          "type": "color"
+        },
+        "bio": {
+          "value": "{semantic.color.fg.subtle}",
+          "type": "color"
+        },
+        "role": {
+          "value": "{semantic.color.fg.muted}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{semantic.color.fg.default}",
           "type": "color"
         }
       },
@@ -65,6 +81,22 @@
       "row-gap": {
         "value": "{semantic.gap-modifier.x}*32",
         "type": "spacing"
+      },
+      "image-1": {
+        "value": "https://images.unsplash.com/photo-1625603564899-36c11aa97c76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+        "type": "asset"
+      },
+      "image-2": {
+        "value": "https://images.unsplash.com/photo-1474557157379-8aa74a6ef541?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2592&q=80",
+        "type": "asset"
+      },
+      "image-3": {
+        "value": "https://images.unsplash.com/photo-1434332253042-50df2f9f7b39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+        "type": "asset"
+      },
+      "image-4": {
+        "value": "https://images.unsplash.com/photo-1532009877282-3340270e0529?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+        "type": "asset"
       }
     }
   }

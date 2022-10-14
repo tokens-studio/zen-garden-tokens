@@ -153,7 +153,7 @@
       }
     },
     "border-radius": {
-      "value": "{radii.none}",
+      "value": "{semantic.comp.border-radius}",
       "type": "borderRadius"
     },
     "space-between": {

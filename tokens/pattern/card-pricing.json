@@ -2,7 +2,7 @@
   "pattern": {
     "card-pricing": {
       "border-radius": {
-        "value": "24 24 24 24",
+        "value": "{semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius}",
         "type": "borderRadius",
         "description": "Modify the border radius of the pricing card. Use multiple values for individual radii: eg. 0 16 0 16\n"
       },
@@ -76,6 +76,16 @@
       "list-gap": {
         "value": "{pattern.card-pricing.gap-modifier}*16",
         "type": "spacing"
+      },
+      "icon-size": {
+        "value": "56",
+        "type": "sizing"
+      }
+    },
+    "pricing-card": {
+      "icon-size": {
+        "value": "56",
+        "type": "fontSizes"
       }
     }
   }

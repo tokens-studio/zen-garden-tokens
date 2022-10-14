@@ -1225,6 +1225,18 @@
         "value": "1",
         "type": "spacing"
       }
+    },
+    "ui": {
+      "border-radius": {
+        "value": "{radii.none}",
+        "type": "borderRadius"
+      }
+    },
+    "comp": {
+      "border-radius": {
+        "value": "{radii.none}",
+        "type": "borderRadius"
+      }
     }
   }
 }

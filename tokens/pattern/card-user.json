@@ -18,7 +18,7 @@
         "type": "icon"
       },
       "border-radius": {
-        "value": "0 24",
+        "value": "{semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius}",
         "type": "borderRadius"
       },
       "image": {
@@ -31,27 +31,9 @@
         "value": "1",
         "type": "spacing"
       },
-      "content": {
-        "color": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color"
-        }
-      },
       "content-gap": {
         "value": "{pattern.card-user.gap-modifier}*16",
         "type": "spacing"
-      },
-      "sub-title": {
-        "color": {
-          "value": "{semantic.color.fg.disabled}",
-          "type": "color"
-        }
-      },
-      "title": {
-        "color": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color"
-        }
       },
       "gap": {
         "value": "16*{pattern.card-user.gap-modifier}",

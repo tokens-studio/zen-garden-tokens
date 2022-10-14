@@ -1,0 +1,14 @@
+{
+  "pattern": {
+    "feature": {
+      "gap": {
+        "value": "{semantic.gap-modifier.x}*24",
+        "type": "spacing"
+      },
+      "content-gap": {
+        "value": "{semantic.gap-modifier.y}*8",
+        "type": "spacing"
+      }
+    }
+  }
+}

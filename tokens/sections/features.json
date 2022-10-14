@@ -37,24 +37,28 @@
           "value": "{semantic.color.fg.subtle}",
           "type": "color"
         },
-        "heading": {
+        "headline": {
           "value": "{semantic.color.fg.default}",
-          "type": "color"
-        },
-        "sub-heading": {
-          "value": "{semantic.color.fg.subtle}",
           "type": "color"
         },
         "body": {
+          "value": "{semantic.color.fg.subtle}",
+          "type": "color"
+        },
+        "feature-text": {
           "value": "{semantic.color.fg.muted}",
           "type": "color"
         },
-        "title": {
+        "feature-heading": {
           "value": "{semantic.color.fg.default}",
           "type": "color"
         },
-        "icon": {
+        "icon-background": {
           "value": "{semantic.color.accent.default}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{semantic.color.fg.on-accent}",
           "type": "color"
         }
       },
@@ -78,13 +82,21 @@
         "value": "{semantic.gap-modifier.x}*56",
         "type": "spacing"
       },
-      "feature-gap": {
-        "value": "{semantic.gap-modifier.x}*24",
-        "type": "spacing"
+      "icon-1": {
+        "value": "list",
+        "type": "other"
       },
-      "feature-content-gap": {
-        "value": "{semantic.gap-modifier.y}*8",
-        "type": "spacing"
+      "icon-2": {
+        "value": "list",
+        "type": "other"
+      },
+      "icon-3": {
+        "value": "list",
+        "type": "other"
+      },
+      "icon-4": {
+        "value": "list",
+        "type": "other"
       }
     }
   }

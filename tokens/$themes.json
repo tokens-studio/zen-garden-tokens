@@ -21,7 +21,8 @@
       "theme/semantic": "disabled",
       "theme/sections": "disabled",
       "theme/semantic-b1": "disabled",
-      "theme/sections_b1": "disabled"
+      "theme/sections_b1": "disabled",
+      "pattern/feature": "enabled"
     },
     "$figmaStyleReferences": {}
   }
