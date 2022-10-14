@@ -17,7 +17,9 @@
       "sections/features": "enabled",
       "sections/team": "enabled",
       "sections/pricing": "enabled",
-      "sections/footer": "enabled"
+      "sections/footer": "enabled",
+      "theme/semantic": "disabled",
+      "theme/sections": "disabled"
     },
     "$figmaStyleReferences": {}
   }
