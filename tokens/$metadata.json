@@ -17,6 +17,7 @@
     "sections/pricing",
     "sections/footer",
     "theme/light",
-    "theme/dark"
+    "theme/dark",
+    "theme/light_1"
   ]
 }

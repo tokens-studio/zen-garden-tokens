@@ -20,7 +20,8 @@
       "sections/footer": "enabled",
       "pattern/feature": "enabled",
       "theme/light": "disabled",
-      "theme/dark": "disabled"
+      "theme/dark": "disabled",
+      "theme/light_1": "disabled"
     },
     "$figmaStyleReferences": {}
   }
