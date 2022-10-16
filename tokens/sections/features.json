@@ -80,19 +80,19 @@
         "description": "hippo"
       },
       "icon-2": {
-        "value": "list",
+        "value": "umbrella",
         "type": "other",
-        "description": "list"
+        "description": "umbrella"
       },
       "icon-3": {
-        "value": "list",
+        "value": "feather",
         "type": "other",
-        "description": "list"
+        "description": "feather"
       },
       "icon-4": {
-        "value": "list",
+        "value": "fire",
         "type": "other",
-        "description": "list"
+        "description": "fire"
       }
     }
   }
