@@ -52,14 +52,6 @@
         "feature-heading": {
           "value": "{semantic.color.fg.default}",
           "type": "color"
-        },
-        "icon-background": {
-          "value": "{semantic.color.accent.default}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{semantic.color.fg.on-accent}",
-          "type": "color"
         }
       },
       "gap": {
