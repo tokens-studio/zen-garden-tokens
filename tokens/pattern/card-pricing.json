@@ -40,15 +40,15 @@
         }
       },
       "muted": {
-        "background": {
-          "value": "{semantic.color.bg.subtle}",
-          "type": "color",
-          "description": "Change this token to change the background color of the muted pricing card\n"
-        },
         "icon-color": {
           "value": "{semantic.color.accent.emphasis}",
           "type": "color",
           "description": "Change this token to modify the icon color of the muted pricing card."
+        },
+        "background": {
+          "value": "{semantic.color.bg.subtle}",
+          "type": "color",
+          "description": "Change this token to change the background color of the muted pricing card\n"
         }
       },
       "padding-x": {

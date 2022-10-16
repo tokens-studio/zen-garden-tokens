@@ -72,11 +72,13 @@
       },
       "icon-1": {
         "value": "gift",
-        "type": "other"
+        "type": "other",
+        "description": "gift"
       },
       "icon-2": {
         "value": "gift",
-        "type": "other"
+        "type": "other",
+        "description": "gift"
       }
     }
   }

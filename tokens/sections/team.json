@@ -44,22 +44,6 @@
         "body": {
           "value": "{semantic.color.fg.subtle}",
           "type": "color"
-        },
-        "name": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color"
-        },
-        "bio": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color"
-        },
-        "role": {
-          "value": "{semantic.color.fg.muted}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color"
         }
       },
       "gap": {
