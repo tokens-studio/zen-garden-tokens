@@ -416,11 +416,11 @@
     },
     "fontFamilies": {
       "headlines": {
-        "value": "Inter",
+        "value": "Edu VIC WA NT Beginner",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Inter",
+        "value": "Josefin Slab",
         "type": "fontFamilies"
       }
     },

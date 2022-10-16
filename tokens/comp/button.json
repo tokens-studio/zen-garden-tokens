@@ -166,7 +166,7 @@
     },
     "icon": {
       "value": {
-        "fontSize": "{semantic.typography.Button.Large.Bold.fontSize}"
+        "fontSize": "16"
       },
       "type": "typography"
     },
