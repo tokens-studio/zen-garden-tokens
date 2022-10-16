@@ -27,6 +27,24 @@
           "type": "color"
         }
       },
+      "bg": {
+        "surface": {
+          "value": "{color.white}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.gray.50}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.gray.300}",
+          "type": "color"
+        },
+        "canvas": {
+          "value": "{color.gray.50}",
+          "type": "color"
+        }
+      },
       "accent": {
         "disabled": {
           "value": "{color.gray.300}",
@@ -46,24 +64,6 @@
         },
         "emphasis": {
           "value": "{color.emerald.600}",
-          "type": "color"
-        }
-      },
-      "bg": {
-        "surface": {
-          "value": "{color.white}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{color.gray.50}",
-          "type": "color"
-        },
-        "muted": {
-          "value": "{color.gray.300}",
-          "type": "color"
-        },
-        "canvas": {
-          "value": "{color.gray.50}",
           "type": "color"
         }
       },
@@ -416,11 +416,15 @@
     },
     "fontFamilies": {
       "headlines": {
-        "value": "Edu VIC WA NT Beginner",
+        "value": "Inter",
         "type": "fontFamilies"
       },
       "body": {
         "value": "Josefin Slab",
+        "type": "fontFamilies"
+      },
+      "captions": {
+        "value": "Inter",
         "type": "fontFamilies"
       }
     },
@@ -489,69 +493,69 @@
       }
     },
     "fontSize": {
-      "base": {
-        "value": "16",
-        "type": "fontSizes"
+      "_base": {
+        "type": "fontSizes",
+        "value": "16"
       },
-      "scale": {
-        "value": "1.2",
-        "type": "fontSizes"
-      },
-      "xxs": {
-        "value": "roundTo({semantic.fontSize.xs} / {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "xs": {
-        "value": "roundTo({semantic.fontSize.sm} / {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "sm": {
-        "value": "roundTo({semantic.fontSize.base} / {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "lg": {
-        "value": "roundTo({semantic.fontSize.base} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "xl": {
-        "value": "roundTo({semantic.fontSize.lg} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "2xl": {
-        "value": "roundTo({semantic.fontSize.xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "3xl": {
-        "value": "roundTo({semantic.fontSize.2xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "4xl": {
-        "value": "roundTo({semantic.fontSize.3xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "5xl": {
-        "value": "roundTo({semantic.fontSize.4xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "6xl": {
-        "value": "roundTo({semantic.fontSize.5xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "7xl": {
-        "value": "roundTo({semantic.fontSize.6xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "8xl": {
-        "value": "roundTo({semantic.fontSize.7xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
-      },
-      "9xl": {
-        "value": "roundTo({semantic.fontSize.8xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
+      "_scale": {
+        "type": "fontSizes",
+        "value": "1.2"
       },
       "10xl": {
-        "value": "roundTo({semantic.fontSize.9xl} * {semantic.fontSize.scale}, 0)",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.9xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "2xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "3xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.2xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "4xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.3xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "5xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.4xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "6xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.5xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "7xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.6xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "8xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.7xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "9xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.8xl} * {semantic.fontSize._scale}, 0)"
+      },
+      "lg": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize._base} * {semantic.fontSize._scale}, 0)"
+      },
+      "sm": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize._base} / {semantic.fontSize._scale}, 0)"
+      },
+      "xl": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.lg} * {semantic.fontSize._scale}, 0)"
+      },
+      "xs": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.sm} / {semantic.fontSize._scale}, 0)"
+      },
+      "xxs": {
+        "type": "fontSizes",
+        "value": "roundTo({semantic.fontSize.xs} / {semantic.fontSize._scale}, 0)"
       }
     },
     "letterSpacing": {
@@ -952,7 +956,7 @@
             "fontFamily": "{semantic.fontFamilies.body}",
             "fontWeight": "{semantic.fontWeights.body.bold}",
             "lineHeight": "{semantic.lineHeights.body.default}",
-            "fontSize": "{semantic.fontSize.base}",
+            "fontSize": "{semantic.fontSize._base}",
             "letterSpacing": "{semantic.letterSpacing.body}",
             "paragraphSpacing": "{semantic.paragraphSpacing.default}",
             "textCase": "{semantic.textCase.none}",
@@ -965,7 +969,7 @@
             "fontFamily": "{semantic.fontFamilies.body}",
             "fontWeight": "{semantic.fontWeights.body.regular}",
             "lineHeight": "{semantic.lineHeights.body.default}",
-            "fontSize": "{semantic.fontSize.base}",
+            "fontSize": "{semantic.fontSize._base}",
             "letterSpacing": "{semantic.letterSpacing.body}",
             "paragraphSpacing": "{semantic.paragraphSpacing.default}",
             "textCase": "{semantic.textCase.none}",
@@ -1006,7 +1010,7 @@
             "fontFamily": "{semantic.fontFamilies.body}",
             "fontWeight": "{semantic.fontWeights.body.semi-bold}",
             "lineHeight": "{semantic.lineHeights.body.default}",
-            "fontSize": "{semantic.fontSize.base}",
+            "fontSize": "{semantic.fontSize._base}",
             "letterSpacing": "{semantic.letterSpacing.captions}",
             "paragraphSpacing": "{semantic.paragraphSpacing.default}",
             "textDecoration": "{semantic.textDecoration.captions}",
@@ -1106,7 +1110,7 @@
               "fontFamily": "{semantic.fontFamilies.body}",
               "fontWeight": "{semantic.fontWeights.body.bold}",
               "lineHeight": "{semantic.lineHeights.body.default}",
-              "fontSize": "{semantic.fontSize.base}",
+              "fontSize": "{semantic.fontSize._base}",
               "letterSpacing": "{semantic.letterSpacing.buttons}",
               "paragraphSpacing": "{semantic.paragraphSpacing.default}",
               "textCase": "{semantic.textCase.buttons}",
@@ -1119,7 +1123,7 @@
               "fontFamily": "{semantic.fontFamilies.body}",
               "fontWeight": "{semantic.fontWeights.body.regular}",
               "lineHeight": "{semantic.lineHeights.body.default}",
-              "fontSize": "{semantic.fontSize.base}",
+              "fontSize": "{semantic.fontSize._base}",
               "letterSpacing": "{semantic.letterSpacing.buttons}",
               "paragraphSpacing": "{semantic.paragraphSpacing.default}",
               "textCase": "{semantic.textCase.buttons}",
@@ -1164,7 +1168,7 @@
               "fontFamily": "{semantic.fontFamilies.body}",
               "fontWeight": "{semantic.fontWeights.body.bold}",
               "lineHeight": "{semantic.lineHeights.body.default}",
-              "fontSize": "{semantic.fontSize.base}",
+              "fontSize": "{semantic.fontSize._base}",
               "letterSpacing": "{semantic.letterSpacing.body}",
               "paragraphSpacing": "{semantic.paragraphSpacing.default}",
               "textCase": "{semantic.textCase.none}",
@@ -1177,7 +1181,7 @@
               "fontFamily": "{semantic.fontFamilies.body}",
               "fontWeight": "{semantic.fontWeights.body.regular}",
               "lineHeight": "{semantic.lineHeights.body.default}",
-              "fontSize": "{semantic.fontSize.base}",
+              "fontSize": "{semantic.fontSize._base}",
               "letterSpacing": "{semantic.letterSpacing.body}",
               "paragraphSpacing": "{semantic.paragraphSpacing.default}",
               "textCase": "{semantic.textCase.none}",
