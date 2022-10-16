@@ -85,7 +85,7 @@
     "card-user": {
       "bio": {
         "type": "color",
-        "value": "{color.white alpha.500}"
+        "value": "{semantic.color.fg.subtle}"
       },
       "body-gap": {
         "type": "spacing",
@@ -109,7 +109,7 @@
       },
       "icon": {
         "type": "color",
-        "value": "{color.white alpha.800}"
+        "value": "{semantic.color.fg.default}"
       },
       "icon-1": {
         "description": "twitter",
@@ -141,22 +141,22 @@
       },
       "name": {
         "type": "color",
-        "value": "{color.white alpha.400}"
+        "value": "{semantic.color.fg.default}"
       },
       "role": {
         "type": "color",
-        "value": "{color.white alpha.800}"
+        "value": "{semantic.color.fg.muted}"
       }
     },
     "feature": {
       "color": {
         "icon": {
           "type": "color",
-          "value": "{semantic.color.accent.emphasis}"
+          "value": "{semantic.color.fg.on-accent}"
         },
         "icon-background": {
           "type": "color",
-          "value": "{semantic.color.accent.muted}"
+          "value": "{semantic.color.accent.default}"
         }
       },
       "content-gap": {
@@ -170,7 +170,7 @@
       "icon": {
         "border-radius": {
           "type": "borderRadius",
-          "value": "{semantic.comp.border-radius}*2"
+          "value": "{semantic.comp.border-radius}"
         }
       },
       "size": {
@@ -182,7 +182,7 @@
       "szie": {
         "icon-background": {
           "type": "sizing",
-          "value": "48*1.25"
+          "value": "48"
         }
       }
     },
@@ -213,23 +213,23 @@
       "color": {
         "body": {
           "type": "color",
-          "value": "{semantic.color.fg.subtle}"
+          "value": "{color.white}"
         },
         "feature-heading": {
           "type": "color",
-          "value": "{semantic.color.fg.default}"
+          "value": "{semantic.color.accent.emphasis}"
         },
         "feature-text": {
           "type": "color",
-          "value": "{semantic.color.fg.muted}"
+          "value": "{color.white}"
         },
         "headline": {
           "type": "color",
-          "value": "{semantic.color.fg.default}"
+          "value": "{color.white}"
         },
         "kicker": {
           "type": "color",
-          "value": "{semantic.color.fg.subtle}"
+          "value": "{semantic.color.accent.default}"
         }
       },
       "container": {
@@ -252,7 +252,7 @@
       },
       "container-overlay": {
         "type": "color",
-        "value": "{color.white}",
+        "value": "#0C0D0F",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
       "gap": {
@@ -334,9 +334,9 @@
         "value": "https://images.unsplash.com/photo-1625603564899-36c11aa97c76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3774&q=80"
       },
       "container-overlay": {
+        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill.",
         "type": "color",
-        "value": "{semantic.color.accent.emphasis}",
-        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
+        "value": "{color.gradient.overlay.dark.180-deg-↓}"
       },
       "gap": {
         "type": "spacing",
@@ -386,13 +386,13 @@
       },
       "container-bg-image": {
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1498735599329-ed6e3798cdcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+        "value": "https://images.unsplash.com/photo-1487967380170-6de32c5fdf43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2664&q=80",
         "description": "Add an image address pointing to a public url\n\n"
       },
       "container-overlay": {
-        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill.",
         "type": "color",
-        "value": "{color.gradient.overlay.dark.0-deg-↑}"
+        "value": "{color.black}",
+        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
       "content-gap": {
         "type": "spacing",
@@ -401,12 +401,12 @@
       "image": {
         "border-radii": {
           "type": "borderRadius",
-          "value": "160"
+          "value": "{semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius}"
         },
         "source": {
+          "description": "https://images.unsplash.com/photo-1607419459063-9d45c62d6b31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
           "type": "asset",
-          "value": "https://images.unsplash.com/photo-1636737249734-f180af754ab8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3454&q=80",
-          "description": "https://images.unsplash.com/photo-1607419459063-9d45c62d6b31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80"
+          "value": "https://images.unsplash.com/photo-1532009877282-3340270e0529?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
         }
       },
       "image-size": {
@@ -436,9 +436,9 @@
         }
       },
       "container-background": {
-        "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this.",
         "type": "color",
-        "value": "{semantic.color.bg.surface}"
+        "value": "#0C0D0F",
+        "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this."
       },
       "container-bg-image": {
         "description": "Add an image address pointing to a public url",
@@ -509,9 +509,9 @@
         "value": "https://images.unsplash.com/photo-1536623975707-c4b3b2af565d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
       },
       "container-overlay": {
+        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill.",
         "type": "color",
-        "value": "{color.white alpha.500}",
-        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
+        "value": "{color.white alpha.800}"
       },
       "gap": {
         "type": "spacing",
@@ -552,15 +552,15 @@
       "color": {
         "body": {
           "type": "color",
-          "value": "{semantic.color.fg.on-accent}"
+          "value": "{semantic.color.fg.subtle}"
         },
         "headline": {
           "type": "color",
-          "value": "{semantic.color.fg.on-accent}"
+          "value": "{semantic.color.fg.default}"
         },
         "kicker": {
           "type": "color",
-          "value": "{semantic.color.fg.on-accent}"
+          "value": "{semantic.color.fg.subtle}"
         }
       },
       "container": {
@@ -582,9 +582,9 @@
         "value": "https://images.unsplash.com/photo-1556010656-e60700d4c0d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"
       },
       "container-overlay": {
+        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill.",
         "type": "color",
-        "value": "{semantic.color.accent.emphasis}",
-        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
+        "value": "{color.white alpha.800}"
       },
       "gap": {
         "type": "spacing",
@@ -894,7 +894,7 @@
           "type": "color"
         },
         "on-accent": {
-          "value": "#e9bda9",
+          "value": "{color.white}",
           "type": "color"
         },
         "muted": {
@@ -938,7 +938,7 @@
           "type": "color"
         },
         "default": {
-          "value": "#BE6338",
+          "value": "#97254E",
           "type": "color"
         },
         "subtle": {
@@ -946,11 +946,11 @@
           "type": "color"
         },
         "muted": {
-          "value": "#E48B61",
+          "value": "#AC5171",
           "type": "color"
         },
         "emphasis": {
-          "value": "#B45427",
+          "value": "#6A1A37",
           "type": "color"
         }
       }
@@ -958,7 +958,7 @@
     "comp": {
       "border-radius": {
         "type": "borderRadius",
-        "value": "{radii.lg}"
+        "value": "{radii.none}"
       }
     },
     "fontFamilies": {
@@ -972,7 +972,7 @@
       },
       "headlines": {
         "type": "fontFamilies",
-        "value": "Kranky"
+        "value": "Dancing Script"
       }
     },
     "fontSize": {
@@ -998,7 +998,7 @@
       },
       "6xl": {
         "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.5xl} * {semantic.fontSize._scale}, 0)"
+        "value": "roundTo({semantic.fontSize.5xl} * {semantic.fontSize._scale}*1.4, 0)"
       },
       "7xl": {
         "type": "fontSizes",
@@ -1063,7 +1063,7 @@
         },
         "medium": {
           "type": "fontWeights",
-          "value": "Regular"
+          "value": "Medium"
         },
         "regular": {
           "type": "fontWeights",
@@ -1082,7 +1082,7 @@
       },
       "y": {
         "type": "spacing",
-        "value": ".6"
+        "value": "1.2"
       }
     },
     "letterSpacing": {
@@ -1174,14 +1174,14 @@
     "ui": {
       "border-radius": {
         "type": "borderRadius",
-        "value": "32"
+        "value": "{radii.none}"
       }
     }
   },
   "sections": {
     "hero": {
       "image-opacity": {
-        "value": "1",
+        "value": "0",
         "type": "opacity"
       }
     }

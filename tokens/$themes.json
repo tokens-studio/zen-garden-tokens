@@ -21,7 +21,8 @@
       "pattern/feature": "enabled",
       "theme/light": "disabled",
       "theme/dark": "disabled",
-      "theme/light_1": "disabled"
+      "theme/light_1": "disabled",
+      "theme/light_2": "disabled"
     },
     "$figmaStyleReferences": {}
   }
