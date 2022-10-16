@@ -10,7 +10,7 @@
         "type": "spacing"
       },
       "icon": {
-        "border-radii": {
+        "border-radius": {
           "value": "{semantic.comp.border-radius}",
           "type": "borderRadius"
         }
@@ -23,6 +23,18 @@
         "icon": {
           "value": "{semantic.color.fg.on-accent}",
           "type": "color"
+        }
+      },
+      "szie": {
+        "icon-background": {
+          "value": "48",
+          "type": "sizing"
+        }
+      },
+      "size": {
+        "icon": {
+          "value": "24",
+          "type": "fontSizes"
         }
       }
     }

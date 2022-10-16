@@ -76,19 +76,23 @@
       },
       "icon-1": {
         "value": "hippo",
-        "type": "other"
+        "type": "other",
+        "description": "hippo"
       },
       "icon-2": {
         "value": "list",
-        "type": "other"
+        "type": "other",
+        "description": "list"
       },
       "icon-3": {
         "value": "list",
-        "type": "other"
+        "type": "other",
+        "description": "list"
       },
       "icon-4": {
         "value": "list",
-        "type": "other"
+        "type": "other",
+        "description": "list"
       }
     }
   }
