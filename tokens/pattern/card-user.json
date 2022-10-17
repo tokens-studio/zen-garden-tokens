@@ -80,7 +80,7 @@
         },
         "icon": {
           "value": {
-            "fontSize": "{semantic.typography.headline-5.regular.fontSize}"
+            "fontSize": "23"
           },
           "type": "typography"
         }
