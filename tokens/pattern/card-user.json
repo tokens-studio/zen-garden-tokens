@@ -2,22 +2,22 @@
   "pattern": {
     "card-user": {
       "icon-1": {
-        "value": "twitter",
+        "value": "f099",
         "type": "icon",
         "description": "twitter"
       },
       "icon-2": {
-        "value": "github",
+        "value": "f09b",
         "type": "icon",
         "description": "github"
       },
       "icon-3": {
-        "value": "whatsapp",
+        "value": "f232",
         "type": "icon",
         "description": "whatsapp"
       },
       "icon-4": {
-        "value": "dribbble",
+        "value": "f17d",
         "type": "icon",
         "description": "dribbble"
       },
@@ -25,24 +25,20 @@
         "value": "{semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius}",
         "type": "borderRadius"
       },
-      "gap-modifier": {
-        "value": "1",
-        "type": "spacing"
-      },
       "content-gap": {
-        "value": "{pattern.card-user.gap-modifier}*16",
+        "value": "{semantic.gap-modifier.y}*16",
         "type": "spacing"
       },
       "gap": {
-        "value": "16*{pattern.card-user.gap-modifier}",
+        "value": "{semantic.gap-modifier.y}*16",
         "type": "spacing"
       },
       "body-gap": {
-        "value": "{pattern.card-user.gap-modifier}*24",
+        "value": "{semantic.gap-modifier.y}*24",
         "type": "spacing"
       },
       "icons-gap": {
-        "value": "{pattern.card-user.gap-modifier}*24",
+        "value": "{semantic.gap-modifier.x}*24",
         "type": "spacing"
       },
       "image-overlay": {
@@ -64,6 +60,34 @@
       "icon": {
         "value": "{semantic.color.fg.default}",
         "type": "color"
+      },
+      "headline-gap": {
+        "value": "{semantic.gap-modifier.y}*2",
+        "type": "spacing"
+      },
+      "typography": {
+        "name": {
+          "value": "{semantic.typography.headline-5.bold}",
+          "type": "typography"
+        },
+        "role": {
+          "value": "{semantic.typography.small.regular}",
+          "type": "typography"
+        },
+        "bio": {
+          "value": "{semantic.typography.small.regular}",
+          "type": "typography"
+        },
+        "icon": {
+          "value": {
+            "fontSize": "{semantic.typography.headline-5.regular.fontSize}"
+          },
+          "type": "typography"
+        }
+      },
+      "shadow": {
+        "value": "{semantic.Shadow.none}",
+        "type": "boxShadow"
       }
     }
   }
