@@ -4,8 +4,8 @@
       "container": {
         "value": {
           "fill": "{section.pricing.container-background}",
-          "verticalPadding": "{pattern.card-pricing.padding-y}",
-          "horizontalPadding": "{pattern.card-pricing.padding-x}"
+          "verticalPadding": "{section.pricing.padding-y}",
+          "horizontalPadding": "{section.pricing.padding-x}"
         },
         "type": "composition"
       },
