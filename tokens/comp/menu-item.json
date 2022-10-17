@@ -10,19 +10,19 @@
         "type": "color"
       },
       "label": {
-        "value": "{semantic.typography.Small.Regular}",
+        "value": "{semantic.typography.small.regular}",
         "type": "typography"
       }
     },
     "default": {
       "label": {
-        "value": "{semantic.typography.Small.Regular}",
+        "value": "{semantic.typography.small.regular}",
         "type": "typography"
       }
     },
     "active": {
       "label": {
-        "value": "{semantic.typography.Small.Bold}",
+        "value": "{semantic.typography.small.bold}",
         "type": "typography"
       }
     },

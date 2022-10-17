@@ -72,6 +72,10 @@
           "value": "{semantic.color.fg.on-accent}",
           "type": "color"
         }
+      },
+      "border-width": {
+        "value": "{borderWidth.none}",
+        "type": "borderWidth"
       }
     },
     "secondary": {
@@ -161,7 +165,7 @@
       "type": "spacing"
     },
     "label": {
-      "value": "{semantic.typography.Button.Large.Bold}",
+      "value": "{semantic.typography.button.large.bold}",
       "type": "typography"
     },
     "icon": {
