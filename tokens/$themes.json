@@ -22,7 +22,8 @@
       "theme/light": "disabled",
       "theme/dark": "disabled",
       "theme/light_1": "disabled",
-      "theme/light_2": "disabled"
+      "theme/light_2": "disabled",
+      "theme/light_six7": "disabled"
     },
     "$figmaStyleReferences": {}
   }

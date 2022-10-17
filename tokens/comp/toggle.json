@@ -43,6 +43,36 @@
           "type": "color"
         }
       }
+    },
+    "height": {
+      "track": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "handle": {
+        "value": "16",
+        "type": "sizing"
+      }
+    },
+    "width": {
+      "track": {
+        "value": "36",
+        "type": "sizing"
+      },
+      "handle": {
+        "value": "16",
+        "type": "sizing"
+      }
+    },
+    "border-radius": {
+      "track": {
+        "value": "36",
+        "type": "borderRadius"
+      },
+      "handle": {
+        "value": "999",
+        "type": "borderRadius"
+      }
     }
   }
 }
