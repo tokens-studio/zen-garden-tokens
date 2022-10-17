@@ -45,7 +45,7 @@
       },
       "hover": {
         "background": {
-          "value": "{semantic.color.fg.disabled}",
+          "value": "{color.black alpha.300}",
           "type": "color"
         }
       }
