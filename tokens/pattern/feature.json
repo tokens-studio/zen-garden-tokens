@@ -33,8 +33,10 @@
       },
       "size": {
         "icon": {
-          "value": "24",
-          "type": "fontSizes"
+          "value": {
+            "fontSize": "{semantic.typography.headline-5.regular.fontSize}"
+          },
+          "type": "typography"
         }
       }
     }
