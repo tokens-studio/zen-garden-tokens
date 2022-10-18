@@ -177,7 +177,9 @@
         "icon": {
           "type": "fontSizes",
           "value": "24"
-        },
+        }
+      },
+      "szie": {
         "icon-background": {
           "type": "sizing",
           "value": "48"
@@ -974,42 +976,6 @@
       }
     },
     "fontSize": {
-      "10xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.9xl} * {semantic.fontSize._scale}, 0)"
-      },
-      "2xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.xl} * {semantic.fontSize._scale}, 0)"
-      },
-      "3xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.2xl} * {semantic.fontSize._scale}, 0)"
-      },
-      "4xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.3xl} * {semantic.fontSize._scale}, 0)"
-      },
-      "5xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.4xl} * {semantic.fontSize._scale}, 0)"
-      },
-      "6xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.5xl} * {semantic.fontSize._scale}*1.4, 0)"
-      },
-      "7xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.6xl} * {semantic.fontSize._scale}, 0)"
-      },
-      "8xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.7xl} * {semantic.fontSize._scale}, 0)"
-      },
-      "9xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.8xl} * {semantic.fontSize._scale}, 0)"
-      },
       "_base": {
         "type": "fontSizes",
         "value": "16"
@@ -1017,26 +983,6 @@
       "_scale": {
         "type": "fontSizes",
         "value": "1.2"
-      },
-      "lg": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize._base} * {semantic.fontSize._scale}, 0)"
-      },
-      "sm": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize._base} / {semantic.fontSize._scale}, 0)"
-      },
-      "xl": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.lg} * {semantic.fontSize._scale}, 0)"
-      },
-      "xs": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.sm} / {semantic.fontSize._scale}, 0)"
-      },
-      "xxs": {
-        "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.xs} / {semantic.fontSize._scale}, 0)"
       }
     },
     "fontWeights": {
