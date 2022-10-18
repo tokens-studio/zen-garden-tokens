@@ -177,9 +177,7 @@
         "icon": {
           "type": "fontSizes",
           "value": "24"
-        }
-      },
-      "szie": {
+        },
         "icon-background": {
           "type": "sizing",
           "value": "48*1.25"
