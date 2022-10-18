@@ -38,6 +38,14 @@
           },
           "type": "typography"
         }
+      },
+      "heading": {
+        "value": "{semantic.typography.body.semi-bold}",
+        "type": "typography"
+      },
+      "text": {
+        "value": "{semantic.typography.small.regular}",
+        "type": "typography"
       }
     }
   }
