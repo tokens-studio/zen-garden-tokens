@@ -52,11 +52,11 @@
       },
       "logo": {
         "text-color": {
-          "value": "{semantic.color.fg.default}",
+          "value": "{semantic.color.bg.surface}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.fg.default}",
+          "value": "{semantic.color.bg.surface}",
           "type": "color"
         },
         "icon-size": {
