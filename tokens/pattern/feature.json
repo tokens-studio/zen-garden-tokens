@@ -25,13 +25,11 @@
           "type": "color"
         }
       },
-      "szie": {
+      "size": {
         "icon-background": {
           "value": "48",
           "type": "sizing"
-        }
-      },
-      "size": {
+        },
         "icon": {
           "value": {
             "fontSize": "23"
