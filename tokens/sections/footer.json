@@ -55,6 +55,10 @@
           "value": "{semantic.color.bg.surface}",
           "type": "color"
         },
+        "text-size": {
+          "value": "22",
+          "type": "fontSizes"
+        },
         "icon-color": {
           "value": "{semantic.color.bg.surface}",
           "type": "color"

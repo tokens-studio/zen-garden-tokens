@@ -45,6 +45,10 @@
           "value": "{semantic.color.fg.default}",
           "type": "color"
         },
+        "text-size": {
+          "value": "16",
+          "type": "fontSizes"
+        },
         "icon-color": {
           "value": "{semantic.color.fg.default}",
           "type": "color"
