@@ -524,14 +524,14 @@
         "value": "{semantic.gap-modifier.y}*8"
       },
       "icon-1": {
-        "description": "gift",
-        "type": "other",
-        "value": "gift"
+        "value": "f06b",
+        "type": "icon",
+        "description": "gift"
       },
       "icon-2": {
-        "description": "gift",
-        "type": "other",
-        "value": "gift"
+        "value": "f06b",
+        "type": "icon",
+        "description": "gift"
       },
       "padding-x": {
         "type": "spacing",
