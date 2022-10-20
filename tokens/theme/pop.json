@@ -529,7 +529,7 @@
       "icon-1": {
         "value": "f242",
         "type": "icon",
-        "description": "battery-half"
+        "description": "battery-full"
       },
       "icon-2": {
         "value": "f240",
