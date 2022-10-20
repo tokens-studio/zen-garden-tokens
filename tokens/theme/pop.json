@@ -505,9 +505,9 @@
         "value": "{semantic.color.bg.surface}"
       },
       "container-bg-image": {
-        "description": "Add an image address pointing to a public url",
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1536623975707-c4b3b2af565d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+        "value": "https://images.unsplash.com/photo-1541415534056-fad380cd68a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80",
+        "description": "Add an image address pointing to a public url"
       },
       "container-overlay": {
         "type": "color",
