@@ -412,6 +412,10 @@
       "padding-y": {
         "type": "spacing",
         "value": "179"
+      },
+      "container-overlay": {
+        "value": "transparent",
+        "type": "color"
       }
     },
     "nav": {
