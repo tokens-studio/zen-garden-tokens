@@ -79,6 +79,11 @@
         "value": "f06b",
         "type": "icon",
         "description": "gift"
+      },
+      "bullet": {
+        "value": "f058",
+        "type": "icon",
+        "description": "check-circle"
       }
     }
   }
