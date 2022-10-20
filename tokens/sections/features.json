@@ -10,7 +10,7 @@
         "type": "composition"
       },
       "container-overlay": {
-        "value": "{color.gradient.overlay.dark.180-deg-↓}",
+        "value": "{color.white alpha.900}",
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
@@ -52,14 +52,6 @@
         "feature-heading": {
           "value": "{semantic.color.fg.default}",
           "type": "color"
-        },
-        "icon-background": {
-          "value": "{semantic.color.accent.default}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{semantic.color.fg.on-accent}",
-          "type": "color"
         }
       },
       "gap": {
@@ -83,20 +75,24 @@
         "type": "spacing"
       },
       "icon-1": {
-        "value": "heart",
-        "type": "icon"
+        "value": "f6ed",
+        "type": "icon",
+        "description": "hippo"
       },
       "icon-2": {
-        "value": "heart",
-        "type": "icon"
+        "value": "f0e9",
+        "type": "icon",
+        "description": "umbrella"
       },
       "icon-3": {
-        "value": "heart",
-        "type": "icon"
+        "value": "f52d",
+        "type": "icon",
+        "description": "feather"
       },
       "icon-4": {
-        "value": "heart",
-        "type": "icon"
+        "value": "f06d",
+        "type": "icon",
+        "description": "fire"
       }
     }
   }

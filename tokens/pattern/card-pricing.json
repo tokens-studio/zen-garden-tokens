@@ -29,26 +29,26 @@
       },
       "default": {
         "background": {
-          "value": "{semantic.color.bg.subtle}",
+          "value": "{semantic.color.bg.surface}",
           "type": "color",
           "description": "Change this token to change the background color of the default pricing card."
         },
         "icon-color": {
-          "value": "{semantic.color.fg.default}",
+          "value": "{semantic.color.accent.default}",
           "type": "color",
           "description": "Change this token to change the icon color in the default pricing card.\n"
         }
       },
       "muted": {
-        "background": {
-          "value": "{semantic.color.bg.muted}",
-          "type": "color",
-          "description": "Change this token to change the background color of the muted pricing card\n"
-        },
         "icon-color": {
-          "value": "{semantic.color.fg.default}",
+          "value": "{semantic.color.accent.emphasis}",
           "type": "color",
           "description": "Change this token to modify the icon color of the muted pricing card."
+        },
+        "background": {
+          "value": "{semantic.color.bg.subtle}",
+          "type": "color",
+          "description": "Change this token to change the background color of the muted pricing card\n"
         }
       },
       "padding-x": {
@@ -61,31 +61,55 @@
         "type": "spacing",
         "description": "Modify this token to change the padding-y of the pricing card"
       },
-      "gap-modifier": {
-        "value": "1",
-        "type": "spacing"
-      },
       "gap": {
-        "value": "{pattern.card-pricing.gap-modifier}*32",
+        "value": "{semantic.gap-modifier.y}*32",
         "type": "spacing"
       },
       "heading-gap": {
-        "value": "{pattern.card-pricing.gap-modifier}*8",
+        "value": "{semantic.gap-modifier.y}*8",
         "type": "spacing"
       },
       "list-gap": {
-        "value": "{pattern.card-pricing.gap-modifier}*16",
+        "value": "{semantic.gap-modifier.y}*16",
         "type": "spacing"
       },
       "icon-size": {
         "value": "56",
         "type": "sizing"
+      },
+      "shadow": {
+        "value": "{semantic.Shadow.none}",
+        "type": "boxShadow"
+      },
+      "action-gap": {
+        "value": "{semantic.gap-modifier.y}*8",
+        "type": "spacing"
       }
     },
     "pricing-card": {
-      "icon-size": {
-        "value": "56",
-        "type": "fontSizes"
+      "typography": {
+        "icon-size": {
+          "value": {
+            "fontSize": "56"
+          },
+          "type": "typography"
+        },
+        "price": {
+          "value": "{semantic.typography.headline-1.bold}",
+          "type": "typography"
+        },
+        "frequency": {
+          "value": "{semantic.typography.headline-5.regular}",
+          "type": "typography"
+        },
+        "description": {
+          "value": "{semantic.typography.body.regular}",
+          "type": "typography"
+        },
+        "mention": {
+          "value": "{semantic.typography.caption.regular}",
+          "type": "typography"
+        }
       }
     }
   }

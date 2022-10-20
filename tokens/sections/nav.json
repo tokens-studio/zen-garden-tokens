@@ -39,6 +39,28 @@
       "logo-menu-gap": {
         "value": "{semantic.gap-modifier.x}*64",
         "type": "spacing"
+      },
+      "logo": {
+        "text-color": {
+          "value": "{semantic.color.fg.default}",
+          "type": "color"
+        },
+        "text-size": {
+          "value": "16",
+          "type": "fontSizes"
+        },
+        "icon-color": {
+          "value": "{semantic.color.fg.default}",
+          "type": "color"
+        },
+        "icon-size": {
+          "value": "28",
+          "type": "sizing"
+        },
+        "gap": {
+          "value": "8",
+          "type": "spacing"
+        }
       }
     }
   }

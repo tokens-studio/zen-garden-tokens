@@ -69,6 +69,12 @@
       "image-size": {
         "value": "540",
         "type": "sizing"
+      },
+      "opacity": {
+        "image": {
+          "value": "100%",
+          "type": "opacity"
+        }
       }
     }
   }

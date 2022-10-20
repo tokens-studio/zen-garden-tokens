@@ -10,10 +10,40 @@
         "type": "spacing"
       },
       "icon": {
-        "border-radii": {
+        "border-radius": {
           "value": "{semantic.comp.border-radius}",
           "type": "borderRadius"
         }
+      },
+      "color": {
+        "icon-background": {
+          "value": "{semantic.color.accent.default}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{semantic.color.fg.on-accent}",
+          "type": "color"
+        }
+      },
+      "size": {
+        "icon-background": {
+          "value": "48",
+          "type": "sizing"
+        },
+        "icon": {
+          "value": {
+            "fontSize": "23"
+          },
+          "type": "typography"
+        }
+      },
+      "heading": {
+        "value": "{semantic.typography.body.semi-bold}",
+        "type": "typography"
+      },
+      "text": {
+        "value": "{semantic.typography.small.regular}",
+        "type": "typography"
       }
     }
   }

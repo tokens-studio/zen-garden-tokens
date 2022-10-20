@@ -16,9 +16,11 @@
     "sections/team",
     "sections/pricing",
     "sections/footer",
-    "theme/semantic",
-    "theme/sections",
-    "theme/semantic-b1",
-    "theme/sections_b1"
+    "theme/light",
+    "theme/dark",
+    "theme/light_1",
+    "theme/light_2",
+    "theme/light_six7",
+    "theme/pop"
   ]
 }
