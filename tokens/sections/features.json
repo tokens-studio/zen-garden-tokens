@@ -76,22 +76,22 @@
       },
       "icon-1": {
         "value": "f6ec",
-        "type": "other",
+        "type": "icon",
         "description": "hippo"
       },
       "icon-2": {
         "value": "f26c",
-        "type": "other",
+        "type": "icon",
         "description": "umbrella"
       },
       "icon-3": {
         "value": "f1ac",
-        "type": "other",
+        "type": "icon",
         "description": "feather"
       },
       "icon-4": {
         "value": "f577",
-        "type": "other",
+        "type": "icon",
         "description": "fire"
       }
     }
