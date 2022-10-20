@@ -382,11 +382,6 @@
         "type": "color",
         "value": "{semantic.color.bg.subtle}"
       },
-      "container-overlay": {
-        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill.",
-        "type": "color",
-        "value": "{color.gradient.overlay.dark.0-deg-↑}"
-      },
       "content-gap": {
         "type": "spacing",
         "value": "{semantic.gap-modifier.y}*24"
