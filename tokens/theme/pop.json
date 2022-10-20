@@ -366,6 +366,10 @@
         "headline": {
           "type": "color",
           "value": "{color.black alpha.800}"
+        },
+        "container-overlay": {
+          "value": "transparent",
+          "type": "color"
         }
       },
       "container": {
