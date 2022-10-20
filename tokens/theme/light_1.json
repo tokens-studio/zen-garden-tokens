@@ -524,19 +524,19 @@
         "value": "{semantic.gap-modifier.y}*8"
       },
       "icon-1": {
-        "value": "f06b",
+        "value": "f58c",
         "type": "icon",
-        "description": "gift"
+        "description": "grin-wink"
       },
       "icon-2": {
-        "value": "f06b",
+        "value": "f584",
         "type": "icon",
-        "description": "gift"
+        "description": "grin-hearts"
       },
       "bullet": {
-        "value": "f058",
+        "value": "f0a4",
         "type": "icon",
-        "description": "check-circle"
+        "description": "hand-point-right"
       },
       "padding-x": {
         "type": "spacing",
