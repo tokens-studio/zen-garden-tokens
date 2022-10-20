@@ -527,19 +527,19 @@
         "value": "{semantic.gap-modifier.y}*8"
       },
       "icon-1": {
-        "value": "f58c",
+        "value": "f242",
         "type": "icon",
-        "description": "grin-wink"
+        "description": "battery-half"
       },
       "icon-2": {
-        "value": "f584",
+        "value": "f240",
         "type": "icon",
-        "description": "grin-hearts"
+        "description": "battery-full"
       },
       "bullet": {
-        "value": "f0a4",
+        "value": "f14a",
         "type": "icon",
-        "description": "hand-point-right"
+        "description": "check-square"
       },
       "padding-x": {
         "type": "spacing",
@@ -1139,6 +1139,12 @@
   "menu-item": {
     "text-color": {
       "value": "{color.black alpha.800}",
+      "type": "color"
+    }
+  },
+  "list-item": {
+    "icon-color": {
+      "value": "{semantic.color.success.default}",
       "type": "color"
     }
   }
