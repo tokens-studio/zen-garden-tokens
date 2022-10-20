@@ -419,7 +419,7 @@
       },
       "container-bg-image": {
         "value": "https://images.unsplash.com/photo-1581611058099-9b188350e41d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
-        "type": "other",
+        "type": "asset",
         "description": "https://images.unsplash.com/photo-1581611058099-9b188350e41d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
       }
     },
