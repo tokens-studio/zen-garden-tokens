@@ -114,22 +114,22 @@
       "icon-1": {
         "description": "twitter",
         "type": "icon",
-        "value": "twitter"
+        "value": "f099"
       },
       "icon-2": {
         "description": "github",
         "type": "icon",
-        "value": "github"
+        "value": "f09b"
       },
       "icon-3": {
         "description": "whatsapp",
         "type": "icon",
-        "value": "whatsapp"
+        "value": "f232"
       },
       "icon-4": {
         "description": "dribbble",
         "type": "icon",
-        "value": "dribbble"
+        "value": "f17d"
       },
       "icons-gap": {
         "type": "spacing",
@@ -266,22 +266,22 @@
         "value": "{semantic.gap-modifier.y}*8"
       },
       "icon-1": {
-        "value": "f6ec",
+        "value": "f6ed",
         "type": "icon",
         "description": "hippo"
       },
       "icon-2": {
-        "value": "f26c",
+        "value": "f0e9",
         "type": "icon",
         "description": "umbrella"
       },
       "icon-3": {
-        "value": "f1ac",
+        "value": "f52d",
         "type": "icon",
         "description": "feather"
       },
       "icon-4": {
-        "value": "f577",
+        "value": "f06d",
         "type": "icon",
         "description": "fire"
       },

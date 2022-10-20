@@ -75,22 +75,22 @@
         "type": "spacing"
       },
       "icon-1": {
-        "value": "f6ec",
+        "value": "f6ed",
         "type": "icon",
         "description": "hippo"
       },
       "icon-2": {
-        "value": "f26c",
+        "value": "f0e9",
         "type": "icon",
         "description": "umbrella"
       },
       "icon-3": {
-        "value": "f1ac",
+        "value": "f52d",
         "type": "icon",
         "description": "feather"
       },
       "icon-4": {
-        "value": "f577",
+        "value": "f06d",
         "type": "icon",
         "description": "fire"
       }
