@@ -109,7 +109,7 @@
       },
       "icon": {
         "type": "color",
-        "value": "{semantic.color.fg.default}"
+        "value": "{semantic.color.accent.emphasis}"
       },
       "icon-1": {
         "description": "twitter",
@@ -137,7 +137,7 @@
       },
       "image-overlay": {
         "type": "color",
-        "value": "{color.gradient.overlay.dark.180-deg-↓}"
+        "value": "{color.black alpha.200}"
       },
       "name": {
         "type": "color",
@@ -327,9 +327,9 @@
         "value": "{semantic.color.accent.emphasis}"
       },
       "container-bg-image": {
-        "description": "Add an image address pointing to a public url",
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1625603564899-36c11aa97c76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3774&q=80"
+        "value": "null",
+        "description": "Add an image address pointing to a public url"
       },
       "container-overlay": {
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill.",
@@ -384,7 +384,7 @@
       },
       "container-bg-image": {
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1532732789821-e69c5633391e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2946&q=80",
+        "value": "https://images.unsplash.com/photo-1487967380170-6de32c5fdf43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3537&q=80",
         "description": "Add an image address pointing to a public url\n\n"
       },
       "container-overlay": {
@@ -481,11 +481,11 @@
       "color": {
         "body": {
           "type": "color",
-          "value": "{semantic.color.fg.subtle}"
+          "value": "{color.white}"
         },
         "headline": {
           "type": "color",
-          "value": "{semantic.color.fg.default}"
+          "value": "{color.white}"
         },
         "icon": {
           "type": "color",
@@ -493,7 +493,7 @@
         },
         "kicker": {
           "type": "color",
-          "value": "{semantic.color.fg.subtle}"
+          "value": "{semantic.color.accent.default}"
         },
         "label": {
           "type": "color",
@@ -514,14 +514,14 @@
         "value": "{semantic.color.bg.surface}"
       },
       "container-bg-image": {
-        "description": "Add an image address pointing to a public url",
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1536623975707-c4b3b2af565d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+        "value": "https://images.unsplash.com/photo-1532889250861-c7a0324437d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+        "description": "Add an image address pointing to a public url"
       },
       "container-overlay": {
-        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill.",
         "type": "color",
-        "value": "{color.white alpha.800}"
+        "value": "{color.black alpha.800}",
+        "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
       "gap": {
         "type": "spacing",
@@ -615,19 +615,19 @@
       },
       "image-1": {
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1625603564899-36c11aa97c76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80"
+        "value": "https://images.unsplash.com/photo-1560262221-122dcafe5bdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
       },
       "image-2": {
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1474557157379-8aa74a6ef541?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2592&q=80"
+        "value": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1288&q=80"
       },
       "image-3": {
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1434332253042-50df2f9f7b39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+        "value": "https://images.unsplash.com/photo-1524417972612-a5f16cda8745?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
       },
       "image-4": {
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1532009877282-3340270e0529?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+        "value": "https://images.unsplash.com/photo-1510781765356-7997f62e695b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2952&q=80"
       },
       "padding-x": {
         "type": "spacing",
