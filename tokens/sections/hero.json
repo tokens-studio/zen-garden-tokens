@@ -11,7 +11,7 @@
         "type": "composition"
       },
       "container-overlay": {
-        "value": "{color.gradient.overlay.dark.0-deg-↑}",
+        "value": "{color.white alpha.400}",
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
@@ -21,7 +21,7 @@
         "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this."
       },
       "container-bg-image": {
-        "value": "https://images.unsplash.com/photo-1523556997878-a6c9fbce3cc1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2938&q=80",
+        "value": "https://images.unsplash.com/photo-1615102477795-6b50e6defa53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
         "type": "asset",
         "description": "Add an image address pointing to a public url\n\n"
       },
