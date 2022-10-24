@@ -384,12 +384,12 @@
       },
       "container-bg-image": {
         "type": "asset",
-        "value": "https://images.unsplash.com/photo-1487967380170-6de32c5fdf43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2664&q=80",
+        "value": "https://images.unsplash.com/photo-1532732789821-e69c5633391e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2946&q=80",
         "description": "Add an image address pointing to a public url\n\n"
       },
       "container-overlay": {
         "type": "color",
-        "value": "{color.black}",
+        "value": "{color.black alpha.500}",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
       "content-gap": {
@@ -418,6 +418,12 @@
       "padding-y": {
         "type": "spacing",
         "value": "179"
+      },
+      "opacity": {
+        "image": {
+          "value": "0",
+          "type": "opacity"
+        }
       }
     },
     "nav": {
@@ -459,6 +465,12 @@
       "padding-y": {
         "type": "spacing",
         "value": "32"
+      },
+      "logo": {
+        "icon-color": {
+          "value": "{semantic.color.accent.default}",
+          "type": "color"
+        }
       }
     },
     "pricing": {
@@ -1122,14 +1134,6 @@
       "border-radius": {
         "type": "borderRadius",
         "value": "{radii.none}"
-      }
-    }
-  },
-  "sections": {
-    "hero": {
-      "image-opacity": {
-        "value": "0",
-        "type": "opacity"
       }
     }
   }

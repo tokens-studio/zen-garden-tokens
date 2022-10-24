@@ -4,19 +4,19 @@
       "fg": {
         "default": {
           "type": "color",
-          "value": "{color.black}"
+          "value": "{color.white}"
         },
         "disabled": {
           "type": "color",
-          "value": "{color.gray.400}"
+          "value": "{color.gray.200}"
         },
         "muted": {
           "type": "color",
-          "value": "{color.gray.700}"
+          "value": "{color.gray.300}"
         },
         "on-accent": {
           "type": "color",
-          "value": "{color.white}"
+          "value": "{color.black}"
         },
         "on-disabled": {
           "type": "color",
@@ -24,25 +24,25 @@
         },
         "subtle": {
           "type": "color",
-          "value": "{color.gray.500}"
+          "value": "{color.gray.300}"
         }
       },
       "bg": {
         "canvas": {
           "type": "color",
-          "value": "{color.gray.50}"
+          "value": "{color.gray.800}"
         },
         "muted": {
           "type": "color",
-          "value": "{color.gray.300}"
+          "value": "{color.gray.700}"
         },
         "subtle": {
           "type": "color",
-          "value": "{color.gray.50}"
+          "value": "{color.gray.900}"
         },
         "surface": {
           "type": "color",
-          "value": "{color.white}"
+          "value": "{color.gray.800}"
         }
       },
       "accent": {
@@ -66,6 +66,14 @@
           "type": "color",
           "value": "{color.emerald.50}"
         }
+      }
+    }
+  },
+  "section": {
+    "hero": {
+      "container-overlay": {
+        "value": "{color.black alpha.700}",
+        "type": "color"
       }
     }
   }
