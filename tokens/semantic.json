@@ -431,7 +431,7 @@
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Josefin Slab",
+        "value": "Inter",
         "type": "fontFamilies"
       },
       "captions": {
@@ -480,7 +480,7 @@
           "type": "fontWeights"
         },
         "semi-bold": {
-          "value": "SemiBold",
+          "value": "Semi Bold",
           "type": "fontWeights"
         },
         "medium": {
@@ -498,7 +498,7 @@
           "type": "fontWeights"
         },
         "semi-bold": {
-          "value": "SemiBold",
+          "value": "Semi Bold",
           "type": "fontWeights"
         }
       }

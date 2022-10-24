@@ -9,7 +9,7 @@
       "type": "color"
     },
     "transparent": {
-      "value": "#ffffff",
+      "value": "rgba(255,255,255,0)",
       "type": "color"
     },
     "slate": {
