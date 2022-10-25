@@ -418,6 +418,12 @@
       "padding-y": {
         "type": "spacing",
         "value": "179"
+      },
+      "opacity": {
+        "image": {
+          "value": "100%",
+          "type": "opacity"
+        }
       }
     },
     "nav": {
