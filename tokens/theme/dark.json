@@ -30,25 +30,25 @@
       "bg": {
         "canvas": {
           "type": "color",
-          "value": "{color.gray.800}"
+          "value": "{color.zinc.800}"
         },
         "muted": {
           "type": "color",
-          "value": "{color.gray.700}"
+          "value": "{color.zinc.700}"
         },
         "subtle": {
           "type": "color",
-          "value": "{color.gray.900}"
+          "value": "{color.zinc.900}"
         },
         "surface": {
           "type": "color",
-          "value": "{color.gray.800}"
+          "value": "{color.zinc.800}"
         }
       },
       "accent": {
         "default": {
           "type": "color",
-          "value": "{color.emerald.500}"
+          "value": "{color.emerald.600}"
         },
         "disabled": {
           "type": "color",
@@ -56,11 +56,11 @@
         },
         "emphasis": {
           "type": "color",
-          "value": "{color.emerald.600}"
+          "value": "{color.emerald.700}"
         },
         "muted": {
           "type": "color",
-          "value": "{color.emerald.400}"
+          "value": "{color.emerald.500}"
         },
         "subtle": {
           "type": "color",
@@ -72,8 +72,12 @@
   "section": {
     "hero": {
       "container-overlay": {
-        "value": "{color.black alpha.700}",
+        "value": "{color.black alpha.500}",
         "type": "color"
+      },
+      "container-bg-image": {
+        "value": "https://images.unsplash.com/photo-1625603564899-36c11aa97c76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+        "type": "asset"
       }
     }
   }
