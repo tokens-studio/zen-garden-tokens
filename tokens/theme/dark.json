@@ -72,7 +72,7 @@
   "section": {
     "hero": {
       "container-overlay": {
-        "value": "{color.black alpha.500}",
+        "value": "{color.black-alpha.500}",
         "type": "color"
       },
       "container-bg-image": {

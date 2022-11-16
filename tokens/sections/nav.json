@@ -32,11 +32,11 @@
         "value": "{semantic.space-around.section.xxs}",
         "type": "spacing"
       },
-      "action-gap": {
+      "action-space-between": {
         "value": "{semantic.gap-modifier.x}*{semantic.space-between.section.xxs}",
         "type": "spacing"
       },
-      "logo-menu-gap": {
+      "logo-menu-space-between": {
         "value": "{semantic.gap-modifier.x}*{semantic.space-between.section.xl}",
         "type": "spacing"
       },
@@ -57,7 +57,7 @@
           "value": "{semantic.size.section.sm}",
           "type": "sizing"
         },
-        "gap": {
+        "space-between": {
           "value": "{semantic.space-between.comp.sm}",
           "type": "spacing"
         }

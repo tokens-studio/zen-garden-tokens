@@ -936,7 +936,7 @@
         "type": "color"
       }
     },
-    "black alpha": {
+    "black-alpha": {
       "50": {
         "value": "#1212120d",
         "type": "color"
@@ -978,7 +978,7 @@
         "type": "color"
       }
     },
-    "white alpha": {
+    "white-alpha": {
       "50": {
         "value": "#ffffff0d",
         "type": "color"
@@ -1020,7 +1020,7 @@
         "type": "color"
       }
     },
-    "brand color": {
+    "brand-color": {
       "airbnb": {
         "value": "#fd5c63",
         "type": "color"
@@ -1109,7 +1109,7 @@
         "value": "#cb2027",
         "type": "color"
       },
-      "product hunt": {
+      "product-hunt": {
         "value": "#da552f",
         "type": "color"
       },
@@ -2177,10 +2177,6 @@
     },
     "base": {
       "value": "8",
-      "type": "spacing"
-    },
-    "xs": {
-      "value": "{space.base} * 0.5",
       "type": "spacing"
     },
     "sm": {

@@ -389,7 +389,7 @@
       },
       "container-overlay": {
         "type": "color",
-        "value": "{color.white alpha.400}",
+        "value": "{color.white-alpha.400}",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
       "content-gap": {

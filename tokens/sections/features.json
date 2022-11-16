@@ -10,7 +10,7 @@
         "type": "composition"
       },
       "container-overlay": {
-        "value": "{color.white alpha.900}",
+        "value": "{color.white-alpha.900}",
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
@@ -52,23 +52,23 @@
         "value": "{semantic.color.fg.default}",
         "type": "color"
       },
-      "gap": {
+      "space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxl}",
         "type": "spacing"
       },
-      "heading-block-gap": {
+      "heading-block-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxs}",
         "type": "spacing"
       },
-      "heading-gap": {
+      "heading-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.sm}",
         "type": "spacing"
       },
-      "block-gap": {
+      "block-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.lg}",
         "type": "spacing"
       },
-      "row-gap": {
+      "row-space-between": {
         "value": "{semantic.gap-modifier.x}*{semantic.space-between.section.lg}",
         "type": "spacing"
       },

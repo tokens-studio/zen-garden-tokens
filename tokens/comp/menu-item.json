@@ -45,7 +45,7 @@
       },
       "hover": {
         "background-color": {
-          "value": "{color.black alpha.300}",
+          "value": "{color.black-alpha.300}",
           "type": "color"
         }
       }
