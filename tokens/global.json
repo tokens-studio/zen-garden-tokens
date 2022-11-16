@@ -2178,22 +2178,6 @@
     "base": {
       "value": "8",
       "type": "spacing"
-    },
-    "sm": {
-      "value": "{space.base} * 1",
-      "type": "spacing"
-    },
-    "md": {
-      "value": "{space.base} * 2",
-      "type": "spacing"
-    },
-    "lg": {
-      "value": "{space.base} * 3",
-      "type": "spacing"
-    },
-    "xl": {
-      "value": "{space.base} * 4",
-      "type": "spacing"
     }
   },
   "borderWidth": {
