@@ -175,7 +175,7 @@
       "type": "typography"
     },
     "padding-x": {
-      "value": "16",
+      "value": "{space.md}",
       "type": "spacing"
     },
     "padding-y": {
