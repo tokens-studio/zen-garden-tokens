@@ -316,7 +316,7 @@
       "container": {
         "type": "composition",
         "value": {
-          "fill": "{section.footer.container-background}",
+          "fill": "{section.footer.container-background-color}",
           "horizontalPadding": "{section.footer.padding-x}",
           "verticalPadding": "{section.footer.padding-y}"
         }
@@ -497,7 +497,7 @@
       "container": {
         "type": "composition",
         "value": {
-          "fill": "{section.pricing.container-background}",
+          "fill": "{section.pricing.container-background-color}",
           "horizontalPadding": "{pattern.card-pricing.padding-x}",
           "verticalPadding": "{pattern.card-pricing.padding-y}"
         }

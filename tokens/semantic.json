@@ -304,6 +304,10 @@
       "xxs": {
         "type": "fontSizes",
         "value": "roundTo({semantic.fontSize._base} / {semantic.fontSize._scale}^3, 0)"
+      },
+      "md": {
+        "value": "{semantic.fontSize._base}*{semantic.fontSize._scale}^0",
+        "type": "fontSizes"
       }
     },
     "letterSpacing": {

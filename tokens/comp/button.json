@@ -177,7 +177,7 @@
       "type": "spacing"
     },
     "icon": {
-      "value": "{semantic.fontSize._base}",
+      "value": "{semantic.fontSize.md}",
       "type": "fontSizes"
     }
   }

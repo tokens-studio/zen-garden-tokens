@@ -3,7 +3,7 @@
     "pricing": {
       "container": {
         "value": {
-          "fill": "{section.pricing.container-background}",
+          "fill": "{section.pricing.container-background-color}",
           "verticalPadding": "{section.pricing.padding-y}",
           "horizontalPadding": "{section.pricing.padding-x}"
         },
@@ -14,7 +14,7 @@
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
-      "container-background": {
+      "container-background-color": {
         "value": "{semantic.color.bg.surface}",
         "type": "color",
         "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this."
@@ -24,27 +24,25 @@
         "type": "asset",
         "description": "Add an image address pointing to a public url"
       },
-      "color": {
-        "kicker": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color"
-        },
-        "headline": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color"
-        },
-        "body": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color"
-        },
-        "label": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{semantic.color.accent.default}",
-          "type": "color"
-        }
+      "kicker-color": {
+        "value": "{semantic.color.fg.subtle}",
+        "type": "color"
+      },
+      "headline-color": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color"
+      },
+      "body-color": {
+        "value": "{semantic.color.fg.subtle}",
+        "type": "color"
+      },
+      "label-color": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.accent.default}",
+        "type": "color"
       },
       "padding-x": {
         "value": "{semantic.space-around.section.lg}",
