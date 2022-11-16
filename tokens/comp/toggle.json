@@ -55,12 +55,12 @@
       }
     },
     "width": {
-      "track": {
-        "value": "36",
-        "type": "sizing"
-      },
       "handle": {
         "value": "16",
+        "type": "sizing"
+      },
+      "track": {
+        "value": "36",
         "type": "sizing"
       }
     },
