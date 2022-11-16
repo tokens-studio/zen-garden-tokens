@@ -39,11 +39,11 @@
         }
       },
       "padding-x": {
-        "value": "165",
+        "value": "{semantic.space-around.section.lg}",
         "type": "spacing"
       },
       "padding-y": {
-        "value": "64",
+        "value": "{semantic.space-around.section.xs}",
         "type": "spacing"
       },
       "gap": {

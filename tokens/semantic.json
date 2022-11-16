@@ -1074,6 +1074,58 @@
           "type": "spacing"
         }
       }
+    },
+    "space-around": {
+      "comp": {
+        "sm": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{space.150}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{space.200}",
+          "type": "spacing"
+        }
+      },
+      "pattern": {
+        "md": {
+          "value": "{space.700}",
+          "type": "spacing"
+        }
+      },
+      "section": {
+        "xxs": {
+          "value": "{space.500}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{space.800}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{space.1200}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{space.1600}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{space.2000}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{space.2200}",
+          "type": "spacing"
+        },
+        "xxl": {
+          "value": "{space.2600}",
+          "type": "spacing"
+        }
+      }
     }
   }
 }

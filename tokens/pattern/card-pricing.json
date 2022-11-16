@@ -52,12 +52,12 @@
         }
       },
       "padding-x": {
-        "value": "56",
+        "value": "{semantic.space-around.pattern.md}",
         "type": "spacing",
         "description": "Modify this token to change the padding-x of the pricing card\n"
       },
       "padding-y": {
-        "value": "56",
+        "value": "{semantic.space-around.pattern.md}",
         "type": "spacing",
         "description": "Modify this token to change the padding-y of the pricing card"
       },

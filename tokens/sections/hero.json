@@ -26,11 +26,11 @@
         "description": "Add an image address pointing to a public url\n\n"
       },
       "padding-y": {
-        "value": "179",
+        "value": "{semantic.space-around.section.xl}",
         "type": "spacing"
       },
       "padding-x": {
-        "value": "165",
+        "value": "{semantic.space-around.section.lg}",
         "type": "spacing"
       },
       "image": {

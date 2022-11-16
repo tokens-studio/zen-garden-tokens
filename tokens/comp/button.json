@@ -175,11 +175,11 @@
       "type": "typography"
     },
     "padding-x": {
-      "value": "{space.md}",
+      "value": "{semantic.space-around.comp.lg}",
       "type": "spacing"
     },
     "padding-y": {
-      "value": "12",
+      "value": "{semantic.space-around.comp.md}",
       "type": "spacing"
     }
   }
