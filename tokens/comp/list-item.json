@@ -20,7 +20,7 @@
       "value": "{semantic.color.accent.default}",
       "type": "color"
     },
-    "gap": {
+    "space-between": {
       "value": "{semantic.space-between.comp.sm}",
       "type": "spacing"
     }

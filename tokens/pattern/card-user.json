@@ -25,19 +25,19 @@
         "value": "{semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius} {semantic.ui.border-radius}",
         "type": "borderRadius"
       },
-      "content-gap": {
+      "content-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.md}",
         "type": "spacing"
       },
-      "gap": {
+      "space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.md}",
         "type": "spacing"
       },
-      "body-gap": {
+      "body-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.lg}",
         "type": "spacing"
       },
-      "icons-gap": {
+      "icons-space-between": {
         "value": "{semantic.gap-modifier.x}*{semantic.space-between.pattern.lg}",
         "type": "spacing"
       },
@@ -61,7 +61,7 @@
         "value": "{semantic.color.fg.default}",
         "type": "color"
       },
-      "headline-gap": {
+      "headline-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.xs}",
         "type": "spacing"
       },

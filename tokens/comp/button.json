@@ -160,7 +160,7 @@
       "value": "{semantic.comp.border-radius}",
       "type": "borderRadius"
     },
-    "gap": {
+    "space-between": {
       "value": "{semantic.space-between.comp.sm}",
       "type": "spacing"
     },

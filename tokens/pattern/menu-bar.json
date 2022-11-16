@@ -1,7 +1,7 @@
 {
   "pattern": {
     "menu-bar": {
-      "gap": {
+      "space-between": {
         "value": "{semantic.gap-modifier.x}*{semantic.space-between.pattern.lg}",
         "type": "spacing"
       }

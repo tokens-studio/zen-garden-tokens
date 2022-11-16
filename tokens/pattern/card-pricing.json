@@ -55,15 +55,15 @@
         "type": "spacing",
         "description": "Modify this token to change the padding-y of the pricing card"
       },
-      "gap": {
+      "space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.xl}",
         "type": "spacing"
       },
-      "heading-gap": {
+      "heading-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.sm}",
         "type": "spacing"
       },
-      "list-gap": {
+      "list-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.md}",
         "type": "spacing"
       },
@@ -75,7 +75,7 @@
         "value": "{semantic.Shadow.none}",
         "type": "boxShadow"
       },
-      "action-gap": {
+      "action-space-between": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.sm}",
         "type": "spacing"
       }
