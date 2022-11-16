@@ -74,7 +74,7 @@
         }
       },
       "border-width": {
-        "value": "{borderWidth.none}",
+        "value": "{semantic.border-width.none}",
         "type": "borderWidth"
       }
     },
@@ -152,7 +152,7 @@
         }
       },
       "border-width": {
-        "value": "{borderWidth.md}",
+        "value": "{semantic.border-width.default}",
         "type": "borderWidth"
       }
     },
@@ -161,7 +161,7 @@
       "type": "borderRadius"
     },
     "space-between": {
-      "value": "{space.sm}",
+      "value": "{semantic.space-between.comp.sm}",
       "type": "spacing"
     },
     "label": {

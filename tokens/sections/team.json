@@ -47,23 +47,23 @@
         }
       },
       "gap": {
-        "value": "{semantic.gap-modifier.y}*96",
+        "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxl}",
         "type": "spacing"
       },
       "heading-block-gap": {
-        "value": "{semantic.gap-modifier.y}*16",
+        "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxs}",
         "type": "spacing"
       },
       "heading-gap": {
-        "value": "{semantic.gap-modifier.y}*8",
+        "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.sm}",
         "type": "spacing"
       },
       "block-gap": {
-        "value": "{semantic.gap-modifier.y}*56",
+        "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.lg}",
         "type": "spacing"
       },
       "row-gap": {
-        "value": "{semantic.gap-modifier.x}*32",
+        "value": "{semantic.gap-modifier.x}*{semantic.space-between.section.sm}",
         "type": "spacing"
       },
       "image-1": {

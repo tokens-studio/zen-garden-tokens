@@ -21,7 +21,7 @@
       "type": "color"
     },
     "gap": {
-      "value": "8",
+      "value": "{semantic.space-between.comp.sm}",
       "type": "spacing"
     }
   }

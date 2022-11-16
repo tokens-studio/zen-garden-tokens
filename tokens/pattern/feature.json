@@ -2,11 +2,11 @@
   "pattern": {
     "feature": {
       "gap": {
-        "value": "{semantic.gap-modifier.x}*24",
+        "value": "{semantic.gap-modifier.x}*{semantic.space-between.pattern.lg}",
         "type": "spacing"
       },
       "content-gap": {
-        "value": "{semantic.gap-modifier.y}*8",
+        "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.sm}",
         "type": "spacing"
       },
       "icon": {
