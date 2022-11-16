@@ -26,19 +26,19 @@
         "type": "borderRadius"
       },
       "content-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.md}",
+        "value": "{semantic.space-between.pattern.md}",
         "type": "spacing"
       },
       "space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.md}",
+        "value": "{semantic.space-between.pattern.md}",
         "type": "spacing"
       },
       "body-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.lg}",
+        "value": "{semantic.space-between.pattern.lg}",
         "type": "spacing"
       },
       "icons-space-between": {
-        "value": "{semantic.space-modifier.x}*{semantic.space-between.pattern.lg}",
+        "value": "{semantic.space-between.pattern.lg}",
         "type": "spacing"
       },
       "image-overlay": {
@@ -62,7 +62,7 @@
         "type": "color"
       },
       "headline-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.xs}",
+        "value": "{semantic.space-between.pattern.xs}",
         "type": "spacing"
       },
       "typography": {

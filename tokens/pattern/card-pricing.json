@@ -56,15 +56,15 @@
         "description": "Modify this token to change the padding-y of the pricing card"
       },
       "space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.xl}",
+        "value": "{semantic.space-between.pattern.xl}",
         "type": "spacing"
       },
       "heading-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.sm}",
+        "value": "{semantic.space-between.pattern.sm}",
         "type": "spacing"
       },
       "list-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.md}",
+        "value": "{semantic.space-between.pattern.md}",
         "type": "spacing"
       },
       "icon-size": {
@@ -76,7 +76,7 @@
         "type": "boxShadow"
       },
       "action-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.sm}",
+        "value": "{semantic.space-between.pattern.sm}",
         "type": "spacing"
       }
     },

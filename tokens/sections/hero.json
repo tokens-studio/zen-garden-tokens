@@ -53,15 +53,15 @@
         "type": "color"
       },
       "body-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.section.md}",
+        "value": "{semantic.space-between.section.md}",
         "type": "spacing"
       },
       "content-space-between": {
-        "value": "{semantic.space-modifier.y}*{semantic.space-between.section.xs}",
+        "value": "{semantic.space-between.section.xs}",
         "type": "spacing"
       },
       "actions-space-between": {
-        "value": "{semantic.space-modifier.x}*{semantic.space-between.section.xxs}",
+        "value": "{semantic.space-between.section.xxs}",
         "type": "spacing"
       },
       "image-size": {
