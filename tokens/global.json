@@ -2375,12 +2375,12 @@
       "value": "384",
       "type": "sizing"
     },
-    "base": {
-      "value": "8",
+    "6750": {
+      "value": "{size.base}*67.5",
       "type": "sizing"
     },
-    "scale": {
-      "value": "1.125",
+    "base": {
+      "value": "8",
       "type": "sizing"
     }
   },

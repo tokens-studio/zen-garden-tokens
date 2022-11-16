@@ -27,7 +27,7 @@
       },
       "size": {
         "icon-background": {
-          "value": "48",
+          "value": "{semantic.size.pattern.md}",
           "type": "sizing"
         },
         "icon": {

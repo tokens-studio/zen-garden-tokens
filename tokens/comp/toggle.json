@@ -46,21 +46,21 @@
     },
     "height": {
       "track": {
-        "value": "20",
+        "value": "{semantic.size.comp.md}",
         "type": "sizing"
       },
       "handle": {
-        "value": "16",
+        "value": "{semantic.size.comp.sm}",
         "type": "sizing"
       }
     },
     "width": {
       "handle": {
-        "value": "16",
+        "value": "{semantic.size.comp.sm}",
         "type": "sizing"
       },
       "track": {
-        "value": "36",
+        "value": "{semantic.size.comp.lg}",
         "type": "sizing"
       }
     },

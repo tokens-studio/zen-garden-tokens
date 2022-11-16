@@ -74,7 +74,7 @@
         "type": "spacing"
       },
       "icon-size": {
-        "value": "56",
+        "value": "{semantic.size.pattern.lg}",
         "type": "sizing"
       },
       "shadow": {

@@ -67,7 +67,7 @@
         "type": "spacing"
       },
       "image-size": {
-        "value": "540",
+        "value": "{semantic.size.section.lg}",
         "type": "sizing"
       },
       "opacity": {

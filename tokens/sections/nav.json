@@ -54,7 +54,7 @@
           "type": "color"
         },
         "icon-size": {
-          "value": "28",
+          "value": "{semantic.size.section.sm}",
           "type": "sizing"
         },
         "gap": {
