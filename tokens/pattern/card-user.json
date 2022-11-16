@@ -79,10 +79,8 @@
           "type": "typography"
         },
         "icon": {
-          "value": {
-            "fontSize": "23"
-          },
-          "type": "typography"
+          "value": "{semantic.fontSize.xl}",
+          "type": "fontSizes"
         }
       },
       "shadow": {

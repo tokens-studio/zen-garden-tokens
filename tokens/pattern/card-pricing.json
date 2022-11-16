@@ -88,12 +88,6 @@
     },
     "pricing-card": {
       "typography": {
-        "icon-size": {
-          "value": {
-            "fontSize": "56"
-          },
-          "type": "typography"
-        },
         "price": {
           "value": "{semantic.typography.headline-1.bold}",
           "type": "typography"
@@ -109,6 +103,10 @@
         "mention": {
           "value": "{semantic.typography.caption.regular}",
           "type": "typography"
+        },
+        "icon-size": {
+          "value": "{semantic.fontSize.6xl}",
+          "type": "fontSizes"
         }
       }
     }

@@ -46,7 +46,7 @@
           "type": "color"
         },
         "text-size": {
-          "value": "16",
+          "value": "{semantic.fontSize._base}",
           "type": "fontSizes"
         },
         "icon-color": {

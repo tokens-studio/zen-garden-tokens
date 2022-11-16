@@ -56,7 +56,7 @@
           "type": "color"
         },
         "text-size": {
-          "value": "22",
+          "value": "{semantic.fontSize.xl}",
           "type": "fontSizes"
         },
         "icon-color": {
