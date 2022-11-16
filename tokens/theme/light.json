@@ -161,11 +161,11 @@
       },
       "content-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*8"
+        "value": "{semantic.space-modifier.y}*8"
       },
       "gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.x}*24"
+        "value": "{semantic.space-modifier.x}*24"
       },
       "icon": {
         "border-radius": {
@@ -206,7 +206,7 @@
     "features": {
       "block-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*58"
+        "value": "{semantic.space-modifier.y}*58"
       },
       "color": {
         "body": {
@@ -255,15 +255,15 @@
       },
       "gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*96"
+        "value": "{semantic.space-modifier.y}*96"
       },
       "heading-block-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*16"
+        "value": "{semantic.space-modifier.y}*16"
       },
       "heading-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*8"
+        "value": "{semantic.space-modifier.y}*8"
       },
       "icon-1": {
         "value": "f6ed",
@@ -295,7 +295,7 @@
       },
       "row-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.x}*56"
+        "value": "{semantic.space-modifier.x}*56"
       }
     },
     "footer": {
@@ -338,7 +338,7 @@
       },
       "gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*18"
+        "value": "{semantic.space-modifier.y}*18"
       },
       "padding-x": {
         "type": "spacing",
@@ -352,11 +352,11 @@
     "hero": {
       "actions-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.x}*16"
+        "value": "{semantic.space-modifier.x}*16"
       },
       "body-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*40"
+        "value": "{semantic.space-modifier.y}*40"
       },
       "color": {
         "body": {
@@ -394,7 +394,7 @@
       },
       "content-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*24"
+        "value": "{semantic.space-modifier.y}*24"
       },
       "image": {
         "border-radii": {
@@ -429,7 +429,7 @@
     "nav": {
       "action-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.x}*16"
+        "value": "{semantic.space-modifier.x}*16"
       },
       "container": {
         "type": "composition",
@@ -456,7 +456,7 @@
       },
       "logo-menu-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.x}*64"
+        "value": "{semantic.space-modifier.x}*64"
       },
       "padding-x": {
         "type": "spacing",
@@ -470,7 +470,7 @@
     "pricing": {
       "block-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.x}*40"
+        "value": "{semantic.space-modifier.x}*40"
       },
       "color": {
         "body": {
@@ -519,15 +519,15 @@
       },
       "gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*56"
+        "value": "{semantic.space-modifier.y}*56"
       },
       "heading-block-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*16"
+        "value": "{semantic.space-modifier.y}*16"
       },
       "heading-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*8"
+        "value": "{semantic.space-modifier.y}*8"
       },
       "icon-1": {
         "value": "f06b",
@@ -556,7 +556,7 @@
     "team": {
       "block-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*56"
+        "value": "{semantic.space-modifier.y}*56"
       },
       "color": {
         "body": {
@@ -597,15 +597,15 @@
       },
       "gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*96"
+        "value": "{semantic.space-modifier.y}*96"
       },
       "heading-block-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*16"
+        "value": "{semantic.space-modifier.y}*16"
       },
       "heading-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.y}*8"
+        "value": "{semantic.space-modifier.y}*8"
       },
       "image-1": {
         "type": "asset",
@@ -633,7 +633,7 @@
       },
       "row-gap": {
         "type": "spacing",
-        "value": "{semantic.gap-modifier.x}*32"
+        "value": "{semantic.space-modifier.x}*32"
       }
     }
   },

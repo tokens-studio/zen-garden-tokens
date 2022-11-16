@@ -45,7 +45,7 @@
         "type": "spacing"
       },
       "space-between": {
-        "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxs}",
+        "value": "{semantic.space-modifier.y}*{semantic.space-between.section.xxs}",
         "type": "spacing"
       },
       "logo": {

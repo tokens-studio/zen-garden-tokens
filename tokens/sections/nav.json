@@ -23,11 +23,11 @@
         "type": "spacing"
       },
       "action-space-between": {
-        "value": "{semantic.gap-modifier.x}*{semantic.space-between.section.xxs}",
+        "value": "{semantic.space-modifier.x}*{semantic.space-between.section.xxs}",
         "type": "spacing"
       },
       "logo-menu-space-between": {
-        "value": "{semantic.gap-modifier.x}*{semantic.space-between.section.xl}",
+        "value": "{semantic.space-modifier.x}*{semantic.space-between.section.xl}",
         "type": "spacing"
       },
       "logo": {

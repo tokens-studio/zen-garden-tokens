@@ -45,23 +45,23 @@
         "type": "color"
       },
       "space-between": {
-        "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxl}",
+        "value": "{semantic.space-modifier.y}*{semantic.space-between.section.xxl}",
         "type": "spacing"
       },
       "heading-block-space-between": {
-        "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxs}",
+        "value": "{semantic.space-modifier.y}*{semantic.space-between.section.xxs}",
         "type": "spacing"
       },
       "heading-space-between": {
-        "value": "{semantic.gap-modifier.y}*{semantic.space-between.pattern.sm}",
+        "value": "{semantic.space-modifier.y}*{semantic.space-between.pattern.sm}",
         "type": "spacing"
       },
       "block-space-between": {
-        "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.lg}",
+        "value": "{semantic.space-modifier.y}*{semantic.space-between.section.lg}",
         "type": "spacing"
       },
       "row-space-between": {
-        "value": "{semantic.gap-modifier.x}*{semantic.space-between.section.sm}",
+        "value": "{semantic.space-modifier.x}*{semantic.space-between.section.sm}",
         "type": "spacing"
       },
       "image-1": {
