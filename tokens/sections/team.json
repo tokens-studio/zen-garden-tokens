@@ -1,14 +1,6 @@
 {
   "section": {
     "team": {
-      "container": {
-        "value": {
-          "fill": "{section.team.container-background}",
-          "verticalPadding": "{section.team.padding-y}",
-          "horizontalPadding": "{section.team.padding-x}"
-        },
-        "type": "composition"
-      },
       "container-overlay": {
         "value": "{semantic.color.bg.subtle}",
         "type": "color",

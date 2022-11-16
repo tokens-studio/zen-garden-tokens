@@ -1,14 +1,6 @@
 {
   "section": {
     "nav": {
-      "container": {
-        "value": {
-          "fill": "{section.nav.container-background-color}",
-          "verticalPadding": "{section.nav.padding-y}",
-          "horizontalPadding": "{section.nav.padding-x}"
-        },
-        "type": "composition"
-      },
       "container-background-color": {
         "value": "{semantic.color.bg.surface}",
         "type": "color",

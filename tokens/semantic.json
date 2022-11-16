@@ -43,6 +43,10 @@
         "canvas": {
           "value": "{color.gray.50}",
           "type": "color"
+        },
+        "overlay": {
+          "value": "{color.white-alpha.400}",
+          "type": "color"
         }
       },
       "accent": {

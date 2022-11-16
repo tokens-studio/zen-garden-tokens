@@ -1,14 +1,6 @@
 {
   "section": {
     "pricing": {
-      "container": {
-        "value": {
-          "fill": "{section.pricing.container-background-color}",
-          "verticalPadding": "{section.pricing.padding-y}",
-          "horizontalPadding": "{section.pricing.padding-x}"
-        },
-        "type": "composition"
-      },
       "container-overlay": {
         "value": "{semantic.color.bg.surface}",
         "type": "color",

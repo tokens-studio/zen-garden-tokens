@@ -1,24 +1,10 @@
 {
   "section": {
     "hero": {
-      "container": {
-        "value": {
-          "fill": "{section.hero.container-background-color}",
-          "verticalPadding": "{section.hero.padding-y}",
-          "horizontalPadding": "{section.hero.padding-x}",
-          "asset": "{section.hero.container-bg-image}"
-        },
-        "type": "composition"
-      },
       "container-overlay": {
-        "value": "{color.white-alpha.400}",
+        "value": "{semantic.color.bg.overlay}",
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
-      },
-      "container-background-color": {
-        "value": "{semantic.color.bg.subtle}",
-        "type": "color",
-        "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this."
       },
       "container-bg-image": {
         "value": "https://images.unsplash.com/photo-1615102477795-6b50e6defa53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",

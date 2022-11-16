@@ -1,14 +1,6 @@
 {
   "section": {
     "footer": {
-      "container": {
-        "value": {
-          "fill": "{section.footer.container-background-color}",
-          "horizontalPadding": "{section.footer.padding-x}",
-          "verticalPadding": "{section.footer.padding-y}"
-        },
-        "type": "composition"
-      },
       "container-overlay": {
         "value": "{semantic.color.accent.emphasis}",
         "type": "color",
