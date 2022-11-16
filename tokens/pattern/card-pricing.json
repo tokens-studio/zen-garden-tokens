@@ -6,29 +6,23 @@
         "type": "borderRadius",
         "description": "Modify the border radius of the pricing card. Use multiple values for individual radii: eg. 0 16 0 16\n"
       },
-      "title": {
-        "color": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color",
-          "description": "Change this token to change the font-color of the title pricing card."
-        }
+      "title-color": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color",
+        "description": "Change this token to change the font-color of the title pricing card."
       },
-      "sub-title": {
-        "color": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color",
-          "description": "Change this token to change the font-color of the sub-title of the pricing card"
-        }
+      "sub-title-color": {
+        "value": "{semantic.color.fg.subtle}",
+        "type": "color",
+        "description": "Change this token to change the font-color of the sub-title of the pricing card"
       },
-      "list": {
-        "color": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color",
-          "description": "Change this token to change the font-color of the list in pricing card."
-        }
+      "list-color": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color",
+        "description": "Change this token to change the font-color of the list in pricing card."
       },
       "default": {
-        "background": {
+        "background-color": {
           "value": "{semantic.color.bg.surface}",
           "type": "color",
           "description": "Change this token to change the background color of the default pricing card."
@@ -45,7 +39,7 @@
           "type": "color",
           "description": "Change this token to modify the icon color of the muted pricing card."
         },
-        "background": {
+        "background-color": {
           "value": "{semantic.color.bg.subtle}",
           "type": "color",
           "description": "Change this token to change the background color of the muted pricing card\n"

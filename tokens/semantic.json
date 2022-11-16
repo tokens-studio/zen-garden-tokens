@@ -158,14 +158,7 @@
     },
     "Shadow": {
       "none": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "rgba(0,0,0,0)",
-          "type": "innerShadow"
-        },
+        "value": "{shadow.none}",
         "type": "boxShadow"
       }
     },

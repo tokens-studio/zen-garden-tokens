@@ -3,7 +3,7 @@
     "features": {
       "container": {
         "value": {
-          "fill": "{section.features.container-background}",
+          "fill": "{section.features.container-background-color}",
           "verticalPadding": "{section.features.padding-y}",
           "horizontalPadding": "{section.features.padding-x}"
         },
@@ -14,7 +14,7 @@
         "type": "color",
         "description": "The section container has a separate background and overlay. You could use the overlay to add a gradient or opacity layer on top of your background color or image fill."
       },
-      "container-background": {
+      "container-background-color": {
         "value": "{semantic.color.bg.surface}",
         "type": "color",
         "description": "Every section container can have a unique background color or image. On top of the background a gradient or opactive layer can be applied. Use the container-overlay token to achieve this."
@@ -32,27 +32,25 @@
         "value": "{semantic.space-around.section.md}",
         "type": "spacing"
       },
-      "color": {
-        "kicker": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color"
-        },
-        "headline": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color"
-        },
-        "body": {
-          "value": "{semantic.color.fg.subtle}",
-          "type": "color"
-        },
-        "feature-text": {
-          "value": "{semantic.color.fg.muted}",
-          "type": "color"
-        },
-        "feature-heading": {
-          "value": "{semantic.color.fg.default}",
-          "type": "color"
-        }
+      "kicker-color": {
+        "value": "{semantic.color.fg.subtle}",
+        "type": "color"
+      },
+      "headline-color": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color"
+      },
+      "body-color": {
+        "value": "{semantic.color.fg.subtle}",
+        "type": "color"
+      },
+      "feature-text-color": {
+        "value": "{semantic.color.fg.muted}",
+        "type": "color"
+      },
+      "feature-heading-color": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color"
       },
       "gap": {
         "value": "{semantic.gap-modifier.y}*{semantic.space-between.section.xxl}",

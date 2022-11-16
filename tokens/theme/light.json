@@ -233,7 +233,7 @@
       "container": {
         "type": "composition",
         "value": {
-          "fill": "{section.features.container-background}",
+          "fill": "{section.features.container-background-color}",
           "horizontalPadding": "{section.features.padding-x}",
           "verticalPadding": "{section.features.padding-y}"
         }
@@ -372,7 +372,7 @@
         "type": "composition",
         "value": {
           "asset": "{section.hero.container-bg-image}",
-          "fill": "{section.hero.container-background}",
+          "fill": "{section.hero.container-background-color}",
           "horizontalPadding": "{section.hero.padding-x}",
           "verticalPadding": "{section.hero.padding-y}"
         }
@@ -434,7 +434,7 @@
       "container": {
         "type": "composition",
         "value": {
-          "fill": "{section.nav.container-background}",
+          "fill": "{section.nav.container-background-color}",
           "horizontalPadding": "{section.nav.padding-x}",
           "verticalPadding": "{section.nav.padding-y}"
         }

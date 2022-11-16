@@ -13,17 +13,15 @@
         "border-radius": {
           "value": "{semantic.comp.border-radius}",
           "type": "borderRadius"
-        }
-      },
-      "color": {
-        "icon-background": {
+        },
+        "background-color": {
           "value": "{semantic.color.accent.default}",
           "type": "color"
-        },
-        "icon": {
-          "value": "{semantic.color.fg.on-accent}",
-          "type": "color"
         }
+      },
+      "icon-color": {
+        "value": "{semantic.color.fg.on-accent}",
+        "type": "color"
       },
       "size": {
         "icon-background": {

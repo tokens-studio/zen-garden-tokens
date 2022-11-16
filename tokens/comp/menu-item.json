@@ -5,7 +5,7 @@
       "type": "color"
     },
     "hover": {
-      "background": {
+      "background-color": {
         "value": "{semantic.color.bg.subtle}",
         "type": "color"
       },
@@ -44,7 +44,7 @@
         "type": "color"
       },
       "hover": {
-        "background": {
+        "background-color": {
           "value": "{color.black alpha.300}",
           "type": "color"
         }

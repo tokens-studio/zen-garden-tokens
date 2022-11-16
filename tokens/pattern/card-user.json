@@ -45,19 +45,19 @@
         "value": "{color.gradient.overlay.dark.180-deg-↓}",
         "type": "color"
       },
-      "name": {
+      "name-color": {
         "value": "{semantic.color.fg.default}",
         "type": "color"
       },
-      "bio": {
+      "bio-color": {
         "value": "{semantic.color.fg.subtle}",
         "type": "color"
       },
-      "role": {
+      "role-color": {
         "value": "{semantic.color.fg.muted}",
         "type": "color"
       },
-      "icon": {
+      "icon-color": {
         "value": "{semantic.color.fg.default}",
         "type": "color"
       },

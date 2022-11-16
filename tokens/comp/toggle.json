@@ -66,11 +66,11 @@
     },
     "border-radius": {
       "track": {
-        "value": "36",
+        "value": "{radii.400}",
         "type": "borderRadius"
       },
       "handle": {
-        "value": "999",
+        "value": "{radii.round}",
         "type": "borderRadius"
       }
     }
